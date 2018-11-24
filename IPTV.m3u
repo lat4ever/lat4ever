@@ -1,0 +1,220 @@
+#EXTM3U tvg-id="LAT4EVER" group-title="LAT4EVER TV" url="http://txt.do/dnoc1/raw"
+
+#EXTINF:-1 group-title="VIP HD", K+NS HD
+http://iptv-nl3-qscdn.hdflixtv.com/VN-K+NS-HD/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="VIP HD", FOX SPORTS HD
+http://iptv-nl3-qscdn.hdflixtv.com/VN-FOX-SPORTS-HD/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="VIP HD", HBO HD
+http://iptv-nl3-qscdn.hdflixtv.com/VN-HBO-HD/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="VIP HD", FOX HD
+http://iptv-nl3-qscdn.hdflixtv.com/VN-FOX-HD/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="VIP HD", AXN HD
+http://iptv-nl3-qscdn.hdflixtv.com/VN-AXN-HD/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="VIP HD", FOX MOVIES HD
+http://iptv-nl3-qscdn.hdflixtv.com/VN-FOX-Movies-HD/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+
+#EXTINF:-1 group-title="VTV", VTV1
+http://iptv-nl3-qscdn.hdflixtv.com/VN-VTV1/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="VTV", VTV2
+http://iptv-nl3-qscdn.hdflixtv.com/VN-VTV2/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="VTV", VTV3 
+http://iptv-nl3-qscdn.hdflixtv.com/VN-VTV3/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="VTV", VTV4 
+http://iptv-nl3-qscdn.hdflixtv.com/VN-VTV4/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="VTV", VTV5 
+http://iptv-nl3-qscdn.hdflixtv.com/VN-VTV5/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="VTV", VTV6 
+http://iptv-nl3-qscdn.hdflixtv.com/VN-VTV6/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="VTV", VTV8 
+http://iptv-nl3-qscdn.hdflixtv.com/VN-VTV8/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="VTV", QPVN
+http://iptv-nl3-qscdn.hdflixtv.com/VN-QPVN/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="VTV", ANTV
+http://iptv-nl3-qscdn.hdflixtv.com/VN-ANTV/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="VTV", TTXVN
+http://iptv-nl3-qscdn.hdflixtv.com/VN-TTXVN/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+
+#EXTINF:-1 group-title="HaNoi", HANOI 1
+http://iptv-nl3-qscdn.hdflixtv.com/VN-HaNoi1/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="HaNoi", HANOI 2
+http://iptv-nl3-qscdn.hdflixtv.com/VN-HaNoi2/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+
+#EXTINF:-1 group-title="VTC", VTC1
+http://iptv-nl3-qscdn.hdflixtv.com/VN-VTC1/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="VTC", VTC2 
+http://iptv-nl3-qscdn.hdflixtv.com/VN-VTC2/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="VTC", VTC3 
+http://iptv-nl3-qscdn.hdflixtv.com/VN-VTC3/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="VTC", VTC5 
+http://iptv-nl3-qscdn.hdflixtv.com/VN-VTC5/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="VTC", VTC6 
+http://iptv-nl3-qscdn.hdflixtv.com/VN-VTC6/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="VTC", VTC7 
+http://iptv-nl3-qscdn.hdflixtv.com/VN-VTC7/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="VTC", VTC8 
+http://iptv-nl3-qscdn.hdflixtv.com/VN-VTC8/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="VTC", VTC9 
+http://iptv-nl3-qscdn.hdflixtv.com/VN-VTC9/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="VTC", VTC10 
+http://iptv-nl3-qscdn.hdflixtv.com/VN-VTC10/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="VTC", VTC11 
+http://iptv-nl3-qscdn.hdflixtv.com/VN-VTC11/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="VTC", VTC13 
+http://iptv-nl3-qscdn.hdflixtv.com/VN-VTC13/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="VTC", VTC14 
+http://iptv-nl3-qscdn.hdflixtv.com/VN-VTC14/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="VTC", VTC16 
+http://iptv-nl3-qscdn.hdflixtv.com/VN-VTC16/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+
+#EXTINF:-1 group-title="HTV", HTV1 
+http://iptv-nl3-qscdn.hdflixtv.com/VN-HTV1/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="HTV", HTV2
+http://iptv-nl3-qscdn.hdflixtv.com/VN-HTV2/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="HTV", HTV3 
+http://iptv-nl3-qscdn.hdflixtv.com/VN-HTV3/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="HTV", HTV4 
+http://iptv-nl3-qscdn.hdflixtv.com/VN-HTV4/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="HTV", HTV7 
+http://iptv-nl3-qscdn.hdflixtv.com/VN-HTV7/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="HTV", HTV9 
+http://iptv-nl3-qscdn.hdflixtv.com/VN-HTV9/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="HTV", HTVC PHIM
+http://iptv-nl3-qscdn.hdflixtv.com/VN-HTVC-PHIM/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="HTV", HTVC PHUNU 
+http://iptv-nl3-qscdn.hdflixtv.com/VN-HTVC-PHU-NU/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="HTV", HTVC DULICH 
+http://iptv-nl3-qscdn.hdflixtv.com/VN-HTVC-DU-LICH/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="HTV", HTVC GIADINH 
+http://iptv-nl3-qscdn.hdflixtv.com/VN-HTVC-GIA-DINH/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="HTV", HTVC THETHAO 
+http://iptv-nl3-qscdn.hdflixtv.com/VN-HTVC-THE-THAO/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="HTV", HTVC THUANVIET 
+http://iptv-nl3-qscdn.hdflixtv.com/VN-HTVC-THUAN-VIET/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+
+#EXTINF:-1 group-title="Quoc Te", FOX MOVIES
+http://iptv-nl3-qscdn.hdflixtv.com/VN-FOX-MOVIES/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="Quoc Te", CINEMAX
+http://iptv-nl3-qscdn.hdflixtv.com/VN-Cinemax/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="Quoc Te", HBO
+http://iptv-nl3-qscdn.hdflixtv.com/VN-HBO/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="Quoc Te", FOX LIFE
+http://iptv-nl3-qscdn.hdflixtv.com/VN-FOX-LIFE/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="Quoc Te", DISCOVERY
+http://iptv-nl3-qscdn.hdflixtv.com/VN-Discovery/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="Quoc Te", ANIMALPLANET
+http://iptv-nl3-qscdn.hdflixtv.com/VN-AnimalPlanet/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="Quoc Te", DISNEY
+http://iptv-nl3-qscdn.hdflixtv.com/VN-Disney/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="Quoc Te", CARTOON
+http://iptv-nl3-qscdn.hdflixtv.com/VN-Cartoon/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="Quoc Te", FOX SPORT
+http://iptv-nl3-qscdn.hdflixtv.com/VN-FOX-SPORTS/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="Quoc Te", FOX SPORT 2
+http://iptv-nl3-qscdn.hdflixtv.com/VN-FOX-SPORTS2/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="Quoc Te", FASHION TV
+http://iptv-nl3-qscdn.hdflixtv.com/VN-FashionTV/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+
+#EXTINF:-1 group-title="Dia Phuong", BINH THUAN
+http://iptv-nl3-qscdn.hdflixtv.com/VN-BinhThuan/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="Dia Phuong", BINH DUONG 1
+http://iptv-nl3-qscdn.hdflixtv.com/VN-BinhDuong1/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="Dia Phuong", BINH DUONG 2
+http://iptv-nl3-qscdn.hdflixtv.com/VN-BinhDuong2/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="Dia Phuong", BINH DUONG 4
+http://iptv-nl3-qscdn.hdflixtv.com/VN-BinhDuong4/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="Dia Phuong", BINH PHUOC 1
+http://iptv-nl3-qscdn.hdflixtv.com/VN-BPTV1/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="Dia Phuong", BINH PHUOC 2
+http://iptv-nl3-qscdn.hdflixtv.com/VN-BPTV2/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="Dia Phuong", LONG AN
+http://iptv-nl3-qscdn.hdflixtv.com/VN-LongAn34/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="Dia Phuong", CA MAU
+http://iptv-nl3-qscdn.hdflixtv.com/VN-CTV/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="Dia Phuong", BAC LIEU
+http://iptv-nl3-qscdn.hdflixtv.com/VN-BacLieu/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="Dia Phuong", DA NANG 1
+http://iptv-nl3-qscdn.hdflixtv.com/VN-DRT1/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="Dia Phuong", DA NANG 2
+http://iptv-nl3-qscdn.hdflixtv.com/VN-DRT2/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="Dia Phuong", HUNG YEN
+http://iptv-nl3-qscdn.hdflixtv.com/VN-HYTV/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="Dia Phuong", NAM DINH
+http://iptv-nl3-qscdn.hdflixtv.com/VN-NTV/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="Dia Phuong", TTV
+http://iptv-nl3-qscdn.hdflixtv.com/VN-TTV/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="Dia Phuong", DAK LAC
+http://iptv-nl3-qscdn.hdflixtv.com/VN-DakLac/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="Dia Phuong", DAK NONG
+http://iptv-nl3-qscdn.hdflixtv.com/VN-PTP/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="Dia Phuong", VINH LONG 1
+http://iptv-nl3-qscdn.hdflixtv.com/VN-THVL1/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="Dia Phuong", VINH LONG 2
+http://iptv-nl3-qscdn.hdflixtv.com/VN-THVL2/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="Dia Phuong", TRA VINH
+http://iptv-nl3-qscdn.hdflixtv.com/VN-THTV/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+
+#EXTINF:-1 group-title="Hai Ngoai", VPOP
+http://iptv-nl3-qscdn.hdflixtv.com/VN-Vpop/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="Hai Ngoai", VBOLERO
+http://iptv-nl3-qscdn.hdflixtv.com/VN-VBolero/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="Hai Ngoai", VBS
+http://iptv-nl3-qscdn.hdflixtv.com/VN-VBS/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="Hai Ngoai", IBC
+http://iptv-nl3-qscdn.hdflixtv.com/VN-IBC/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="Hai Ngoai", VIET MY
+http://iptv-nl3-qscdn.hdflixtv.com/VN-VIET-MY/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="Hai Ngoai", RANG DONG
+http://iptv-nl3-qscdn.hdflixtv.com/VN-RangDong/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+#EXTINF:-1 group-title="Hai Ngoai", HAI
+http://iptv-nl3-qscdn.hdflixtv.com/VN-Hai/index.m3u8?token=ս<{|iǝons߭8y[מ5ox~[{Nz}m9^8s
+
+
+#EXTINF:-1 tvg-id="VTV 1 HD" tvg-name="VTV 1 HD" tvg-shift="" radio="" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv1_w150_h150.png" group-title="VTV HD", VTV1 HD
+https://hjyjrvmlsk.vcdn.com.vn/hls/elgfjdh/index.m3u8
+#EXTINF:-1 tvg-id="VTV 2 HD" tvg-name="VTV 2 HD" tvg-shift="" radio="" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv2_w150_h150.png" group-title="VTV HD", VTV2 HD
+https://hjyjrvmlsk.vcdn.com.vn/hls/m0hlc1s/index.m3u8
+#EXTINF:-1 tvg-id="VTV 3 HD" tvg-name="VTV 3 HD" tvg-shift="" radio="" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv3_w150_h150.png" group-title="VTV HD", VTV3 HD
+https://hjyjrvmlsk.vcdn.com.vn/hls/idmwifi/index.m3u8
+#EXTINF:-1 tvg-id="VTV 4 HD" tvg-name="VTV 4 HD" tvg-shift="" radio="" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv4_w150_h150.png" group-title="VTV HD", VTV4 HD
+https://hjyjrvmlsk.vcdn.com.vn/hls/hktebdo/index.m3u8
+#EXTINF:-1 tvg-id="VTV 5 HD" tvg-name="VTV 5 HD" tvg-shift="" radio="" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv5_w150_h150.png" group-title="VTV HD", VTV5 HD
+https://hjyjrvmlsk.vcdn.com.vn/hls/ira1wlr/index.m3u8
+#EXTINF:-1 tvg-id="VTV 6 HD" tvg-name="VTV 6 HD" tvg-shift="" radio="" tvg-logo="http://i.imgur.com/keIENsc.png" group-title="VTV HD", VTV6 HD
+https://hjyjrvmlsk.vcdn.com.vn/hls/fjg6388/index.m3u8
+#EXTINF:-1 tvg-id="VTV 7 HD" tvg-name="VTV 7 HD" tvg-shift="" radio="" tvg-logo="http://epg.kplus.vn/Images?filename=media%2f1200px-VTV7Logo.png" group-title="VTV HD", VTV7 HD
+https://hjyjrvmlsk.vcdn.com.vn/hls/nwalmjv/index.m3u8
+#EXTINF:-1 tvg-id="VTV 8 HD" tvg-name="VTV 8 HD" tvg-shift="" radio="" tvg-logo="http://vtv1.vcmedia.vn/web_images/vtv8-3.png" group-title="VTV HD", VTV8 HD
+https://hjyjrvmlsk.vcdn.com.vn/hls/wgabpze/index.m3u8
+#EXTINF:-1 tvg-id="VTV 9 HD" tvg-name="VTV 9 HD" tvg-shift="" radio="" tvg-logo="https://cdn.kplus.vn/content/upload/1/root/logo-vtv9_w150_h150.png" group-title="VTV HD", VTV9 HD
+https://hjyjrvmlsk.vcdn.com.vn/hls/ig9jpqw/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.upsieutoc.com/images/2018/11/12/VTC-Play.jpg" group-title="VTC HD",VTC Play
+http://118.107.68.10:1935/live/_definst_/VTC_CANHAC2017/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.upsieutoc.com/images/2018/11/12/VTC1.jpg" group-title="VTC HD", VTC1 HD
+https://cdn1.vtcnow.vn/live/eds/VTC1_1/hlsv3/VTC1_1-audio_20000=212400-video=1799600.m3u8
+#EXTINF:-1 tvg-logo="https://www.upsieutoc.com/images/2018/11/12/VTC2.jpg" group-title="VTC HD", VTC2 HD
+https://cdn1.vtcnow.vn/live/eds/VTC2_2/hlsv3/VTC2_2-audio_20000=212400-video=1275600.m3u8
+#EXTINF:-1 tvg-logo="https://www.upsieutoc.com/images/2018/11/12/VTC3.jpg" group-title="VTC HD", VTC3 HD
+https://cdn1.vtcnow.vn/live/eds/VTC3_3/hlsv3/VTC3_3-audio_20000=212400-video=800000.m3u8
+#EXTINF:-1 tvg-logo="https://www.upsieutoc.com/images/2018/11/12/VTC4.jpg" group-title="VTC HD", VTC4 HD
+https://cdn1.vtcnow.vn/live/eds/VTC4_4/hlsv3/VTC4_4-audio_20000=212400-video=1275600.m3u8
+#EXTINF:-1 tvg-logo="https://www.upsieutoc.com/images/2018/11/12/VTC5.jpg" group-title="VTC HD", VTC5 HD
+https://cdn1.vtcnow.vn/live/eds/VTC5_5/hlsv3/VTC5_5-audio_20000=212400-video=1275600.m3u8
+#EXTINF:-1 tvg-logo="https://www.upsieutoc.com/images/2018/11/12/VTC6.jpg" group-title="VTC HD", VTC6 HD
+https://cdn1.vtcnow.vn/live/eds/VTC6_6/hlsv3/VTC6_6-audio_20000=212400-video=1275600.m3u8
+#EXTINF:-1 tvg-logo="https://www.upsieutoc.com/images/2018/11/12/VTC7.jpg" group-title="VTC HD", VTC7 HD
+https://cdn1.vtcnow.vn/live/eds/VTC7_7/hlsv3/VTC7_7-audio_20000=212400-video=800000.m3u8
+#EXTINF:-1 tvg-logo="https://www.upsieutoc.com/images/2018/11/12/VTC8.jpg" group-title="VTC HD", VTC8 HD
+https://cdn1.vtcnow.vn/live/eds/VTC8_8/hlsv3/VTC8_8-audio_20000=212400-video=1275600.m3u8
+#EXTINF:-1 tvg-logo="https://www.upsieutoc.com/images/2018/11/12/VTC9.jpg" group-title="VTC HD", VTC9 HD
+https://cdn1.vtcnow.vn/live/eds/VTC9_9/hlsv3/VTC9_9-audio_20000=212400-video=572800.m3u8
+#EXTINF:-1 tvg-logo="https://www.upsieutoc.com/images/2018/11/12/VTC10.jpg" group-title="VTC HD", VTC10 HD
+https://cdn1.vtcnow.vn/live/eds/VTC10_10/hlsv3/VTC10_10-audio_20000=212400-video=1275600.m3u8
+#EXTINF:-1 tvg-logo="https://www.upsieutoc.com/images/2018/11/12/VTC11.jpg" group-title="VTC HD", VTC11 HD
+https://cdn1.vtcnow.vn/live/eds/VTC11_11/hlsv3/VTC11_11-audio_20000=212400-video=1275600.m3u8
+#EXTINF:-1 tvg-logo="https://www.upsieutoc.com/images/2018/11/12/VTC13.jpg" group-title="VTC HD", VTC13 HD
+https://cdn1.vtcnow.vn/live/eds/VTC13_13/hlsv3/VTC13_13-audio_20000=212400-video=867200.m3u8
+#EXTINF:-1 tvg-logo="https://www.upsieutoc.com/images/2018/11/12/VTC14.jpg" group-title="VTC HD", VTC14 HD
+https://cdn1.vtcnow.vn/live/eds/VTC14_14/hlsv3/VTC14_14-audio_20000=212400-video=1582000.m3u8
+#EXTINF:-1 tvg-logo="https://www.upsieutoc.com/images/2018/11/12/VTC16.jpg" group-title="VTC HD", VTC16 HD
+https://cdn1.vtcnow.vn/live/eds/VTC16_16/hlsv3/VTC16_16-audio_20000=212400-video=1275600.m3u8
