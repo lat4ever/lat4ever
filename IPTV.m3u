@@ -1,13 +1,13 @@
 #EXTM3U tvg-id="LAT4EVER" group-title="LAT4EVER TV" url="http://txt.do/dnoc1/raw"
 
-#EXTINF:-1 group-title="VIP HD", K+ NS HD
+#EXTINF:-1 group-title="VIP HD", K+NS HD
 http://iptv-nl3-qscdn.hdflixtv.com/VN-K+NS-HD/index.m3u8
 #EXTINF:-1 group-title="VIP HD", K+ PM HD
-http://iptv-nl3-qscdn.hdflixtv.com/VN-HBO-HD/index.m3u8
+http://iptv-nl3-qscdn.hdflixtv.com/VN-K+PM-HD/index.m3u8
 #EXTINF:-1 group-title="VIP HD", K+1 HD
-http://iptv-nl3-qscdn.hdflixtv.com/VN-AXN-HD/index.m3u8
+http://iptv-nl3-qscdn.hdflixtv.com/VN-K+1-HD/index.m3u8
 #EXTINF:-1 group-title="VIP HD", K+ PC HD
-http://iptv-nl3-qscdn.hdflixtv.com/VN-FOX-Movies-HD/index.m3u8
+http://iptv-nl3-qscdn.hdflixtv.com/VN-K+PC-HD/index.m3u8
 #EXTINF:-1 group-title="VIP HD", FOX HD
 http://iptv-nl3-qscdn.hdflixtv.com/VN-FOX-HD/index.m3u8
 #EXTINF:-1 group-title="VIP HD", FOX SPORTS HD
