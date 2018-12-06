@@ -1,0 +1,225 @@
+#EXTM3U group-title="LAT4EVER", LATEVER TV 
+http://raw.githubusercontent.com/lat4ever/lat4ever/lat4ever.m3u
+
+#EXTINF:-1,MTV
+http://42.116.153.238:8889/udp/225.1.1.245:30120
+#EXTINF:-1,Animal Planet
+http://42.116.153.238:8889/udp/225.1.1.231:30120
+#EXTINF:-1,Arirang
+http://42.116.153.238:8889/udp/225.1.1.201:30120
+#EXTINF:-1,Asian Food Channel HD
+http://42.116.153.238:8889/udp/225.1.1.198:30120
+#EXTINF:-1,Australia Plus
+http://42.116.153.238:8889/udp/225.1.2.21:30120
+#EXTINF:-1,AXN
+http://42.116.153.238:8889/udp/225.1.1.237:30120
+#EXTINF:-1,AXN HD
+http://42.116.153.238:8889/udp/225.1.2.224:30120
+#EXTINF:-1,AXN HD
+http://42.116.153.238:8889/udp/225.1.2.225:30120
+#EXTINF:-1,BBC Earth
+http://42.116.153.238:8889/udp/225.1.2.24:30120
+#EXTINF:-1,BBC Lifestyle
+http://42.116.153.238:8889/udp/225.1.2.52:30120
+#EXTINF:-1,BBC World News
+http://42.116.153.238:8889/udp/225.1.2.74:30120
+#EXTINF:-1,Cartoon Network
+http://42.116.153.238:8889/udp/225.1.1.240:30120
+#EXTINF:-1,Cartoon Network HD
+http://42.116.153.238:8889/udp/225.1.2.230:30120
+#EXTINF:-1,Cartoon Network HD
+http://42.116.153.238:8889/udp/225.1.2.231:30120
+#EXTINF:-1,Channel News Asia
+http://42.116.153.238:8889/udp/225.1.1.202:30120
+#EXTINF:-1,Channel [V]
+http://42.116.153.238:8889/udp/225.1.1.243:30120
+#EXTINF:-1,Channel [V] HD
+http://42.116.153.238:8889/udp/225.1.1.187:30120
+#EXTINF:-1,Channel [V] HD
+http://42.116.153.238:8889/udp/225.1.1.188:30120
+#EXTINF:-1,Cinema World
+http://42.116.153.238:8889/udp/225.1.1.142:30120
+#EXTINF:-1,CNBC
+http://42.116.153.238:8889/udp/225.1.1.227:30120
+#EXTINF:-1,CNN
+http://42.116.153.238:8889/udp/225.1.1.242:30120
+#EXTINF:-1,HBO
+http://42.116.153.238:8889/udp/225.1.1.2:30120
+#EXTINF:-1,Da Vinci Learning HD
+http://42.116.153.238:8889/udp/225.1.1.197:30120
+#EXTINF:-1,Da Vinci Learning HD
+http://42.116.153.238:8889/udp/225.1.2.253:30120
+#EXTINF:-1,Discovery Asia HD
+http://42.116.153.238:8889/udp/225.1.2.222:30120
+#EXTINF:-1,Discovery Asia HD
+http://42.116.153.238:8889/udp/225.1.2.223:30120
+#EXTINF:-1,Discovery Channel
+http://42.116.153.238:8889/udp/225.1.1.238:30120
+#EXTINF:-1,Disney Channel HD
+http://42.116.153.238:8889/udp/225.1.2.158:30120
+#EXTINF:-1,Disney Channel HD
+http://42.116.153.238:8889/udp/225.1.2.160:30120
+#EXTINF:-1,Disney Junior
+http://42.116.153.238:8889/udp/225.1.1.233:30120
+#EXTINF:-1,Diva
+http://42.116.153.238:8889/udp/225.1.1.199:30120
+#EXTINF:-1,DW
+http://42.116.153.238:8889/udp/225.1.1.203:30120
+#EXTINF:-1,DW HD
+http://42.116.153.238:8889/udp/225.1.1.46:30120
+#EXTINF:-1,Fashion TV HD
+http://42.116.153.238:8889/udp/225.1.2.227:30120
+#EXTINF:-1,Fox Sports
+http://42.116.153.238:8889/udp/225.1.1.239:30120
+#EXTINF:-1,Fox Sports HD
+http://42.116.153.238:8889/udp/225.1.2.228:30120
+#EXTINF:-1,Fox Sports HD
+http://42.116.153.238:8889/udp/225.1.2.229:30120
+#EXTINF:-1,Fox Sports 2 HD
+http://42.116.153.238:8889/udp/225.1.1.108:30120
+#EXTINF:-1,Fox Sports 2 HD
+http://42.116.153.238:8889/udp/225.1.1.141:30120
+#EXTINF:-1,France 24
+http://42.116.153.238:8889/udp/225.1.2.211:30120
+#EXTINF:-1,GEM HD
+http://42.116.153.238:8889/udp/225.1.1.17:30120
+#EXTINF:-1,GEM HD
+http://42.116.153.238:8889/udp/225.1.1.60:30120
+#EXTINF:-1,HBO SD
+http://42.116.153.238:8889/udp/225.1.1.48:30120
+#EXTINF:-1,HBO SD
+http://42.116.153.238:8889/udp/225.1.1.235:30120
+#EXTINF:-1,HBO HD
+http://42.116.153.238:8889/udp/225.1.2.232:30120
+#EXTINF:-1,HBO HD
+http://42.116.153.238:8889/udp/225.1.2.233:30120
+#EXTINF:-1,MAX by HBO
+http://42.116.153.238:8889/udp/225.1.1.230:30120
+#EXTINF:-1,MAX by HBO HD
+http://42.116.153.238:8889/udp/225.1.2.86:30120
+#EXTINF:-1,MAX by HBO HD
+http://42.116.153.238:8889/udp/225.1.2.91:30120
+#EXTINF:-1,National Geographic
+http://42.116.153.238:8889/udp/225.1.1.244:30120
+#EXTINF:-1,National Geographic HD
+http://42.116.153.238:8889/udp/225.1.2.234:30120
+#EXTINF:-1,National Geographic HD
+http://42.116.153.238:8889/udp/225.1.2.235:30120
+#EXTINF:-1,NHK World
+http://42.116.153.238:8889/udp/225.1.1.196:30120
+#EXTINF:-1,NHK World HD
+http://42.116.153.238:8889/udp/225.1.1.47:30120
+#EXTINF:-1,Outdoor Channel HD
+http://42.116.153.238:8889/udp/225.1.2.214:30120
+#EXTINF:-1,Outdoor Channel HD
+http://42.116.153.238:8889/udp/225.1.2.215:30120
+#EXTINF:-1,RED by HBO HD
+http://42.116.153.238:8889/udp/225.1.1.89:30120
+#EXTINF:-1,RED by HBO HD
+http://42.116.153.238:8889/udp/225.1.1.93:30120
+#EXTINF:-1,Star Movies
+http://42.116.153.238:8889/udp/225.1.1.205:30120
+#EXTINF:-1,Star Movies HD
+http://42.116.153.238:8889/udp/225.1.2.238:30120
+#EXTINF:-1,Star Movies HD
+http://42.116.153.238:8889/udp/225.1.2.239:30120
+#EXTINF:-1,Fox Life
+http://42.116.153.238:8889/udp/225.1.1.204:30120
+#EXTINF:-1,Fox Life HD
+http://42.116.153.238:8889/udp/225.1.2.236:30120
+#EXTINF:-1,Fox Life HD
+http://42.116.153.238:8889/udp/225.1.2.237:30120
+#EXTINF:-1,TLC
+http://42.116.153.238:8889/udp/225.1.1.236:30120
+#EXTINF:-1,Toonami HD
+http://42.116.153.238:8889/udp/225.1.2.163:30120
+#EXTINF:-1,Toonami HD
+http://42.116.153.238:8889/udp/225.1.2.220:30120
+#EXTINF:-1,TV5Monde Asia
+http://42.116.153.238:8889/udp/225.1.1.200:30120
+#EXTINF:-1,WarnerBros TV
+http://42.116.153.238:8889/udp/225.1.1.139:30120
+#EXTINF:-1,FOX HD
+http://42.116.153.238:8889/udp/225.1.1.51:30120
+#EXTINF:-1,FOX HD
+http://42.116.153.238:8889/udp/225.1.1.52:30120
+#EXTINF:-1,BABY TV
+http://42.116.153.238:8889/udp/225.1.2.147:30120
+#EXTINF:-1,G Channel - SCTV4
+http://42.116.153.238:8889/udp/225.1.2.187:30120
+#EXTINF:-1,N/A
+http://42.116.153.238:8889/udp/225.1.2.100:30120
+#EXTINF:-1,KIX HD
+http://42.116.153.238:8889/udp/225.1.2.144:30120
+#EXTINF:-1,KIX HD
+http://42.116.153.238:8889/udp/225.1.2.145:30120
+#EXTINF:-1,VITV
+http://42.116.153.238:8889/udp/225.1.2.143:30120
+#EXTINF:-1,BBC Earth HD
+http://42.116.153.238:8889/udp/225.1.2.25:30120
+#EXTINF:-1,Warner Bros TV HD
+http://42.116.153.238:8889/udp/225.1.1.140:30120
+#EXTINF:-1,VTV3 HD (HD 2Mbps) (Dự phòng)
+http://42.116.153.238:8889/udp/225.1.2.101:30120
+#EXTINF:-1,VTV3 HD (HD 720p) (Dự phòng)
+http://42.116.153.238:8889/udp/225.1.2.102:30120
+#EXTINF:-1,Cinema World (HD 4Mbps)
+http://42.116.153.238:8889/udp/225.1.1.143:30120
+#EXTINF:-1,FOX SPORTS (50i)
+http://42.116.153.238:8889/udp/225.1.1.86:30120
+#EXTINF:-1,FPT Sự Kiện (HD 4Mbps)
+http://42.116.153.238:8889/udp/225.1.1.38:30120
+#EXTINF:-1,FPT Sự Kiện (HD 8Mbps)
+http://42.116.153.238:8889/udp/225.1.1.96:30120
+#EXTINF:-1,VTC3 HD (HD 4Mbps)
+http://42.116.153.238:8889/udp/225.1.1.114:30120
+ 
+#EXTINF:-1 tvg-logo="https://www.upsieutoc.com/images/2018/11/12/VTC-Play.jpg" group-title="VTC HD",VTC Play
+http://118.107.68.10:1935/live/_definst_/VTC_CANHAC2017/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.upsieutoc.com/images/2018/11/12/VTC1.jpg" group-title="VTC HD",VTC1 HD
+https://cdn1.vtcnow.vn/live/eds/VTC1_1/hlsv3/VTC1_1-audio_20000=212400-video=1799600.m3u8
+#EXTINF:-1 tvg-logo="https://www.upsieutoc.com/images/2018/11/12/VTC2.jpg" group-title="VTC HD",VTC2 HD
+https://cdn1.vtcnow.vn/live/eds/VTC2_2/hlsv3/VTC2_2-audio_20000=212400-video=1275600.m3u8
+#EXTINF:-1 tvg-logo="https://www.upsieutoc.com/images/2018/11/12/VTC3.jpg" group-title="VTC HD",VTC3 HD
+https://cdn1.vtcnow.vn/live/eds/VTC3_3/hlsv3/VTC3_3-audio_20000=212400-video=800000.m3u8
+#EXTINF:-1 tvg-logo="https://www.upsieutoc.com/images/2018/11/12/VTC4.jpg" group-title="VTC HD",VTC4 HD
+https://cdn1.vtcnow.vn/live/eds/VTC4_4/hlsv3/VTC4_4-audio_20000=212400-video=1275600.m3u8
+#EXTINF:-1 tvg-logo="https://www.upsieutoc.com/images/2018/11/12/VTC5.jpg" group-title="VTC HD", VTC5 HD
+https://cdn1.vtcnow.vn/live/eds/VTC5_5/hlsv3/VTC5_5-audio_20000=212400-video=1275600.m3u8
+#EXTINF:-1 tvg-logo="https://www.upsieutoc.com/images/2018/11/12/VTC6.jpg" group-title="VTC HD", VTC6 HD
+https://cdn1.vtcnow.vn/live/eds/VTC6_6/hlsv3/VTC6_6-audio_20000=212400-video=1275600.m3u8
+#EXTINF:-1 tvg-logo="https://www.upsieutoc.com/images/2018/11/12/VTC7.jpg" group-title="VTC HD", VTC7 HD
+https://cdn1.vtcnow.vn/live/eds/VTC7_7/hlsv3/VTC7_7-audio_20000=212400-video=800000.m3u8
+#EXTINF:-1 tvg-logo="https://www.upsieutoc.com/images/2018/11/12/VTC8.jpg" group-title="VTC HD",VTC8 HD
+https://cdn1.vtcnow.vn/live/eds/VTC8_8/hlsv3/VTC8_8-audio_20000=212400-video=1275600.m3u8
+#EXTINF:-1 tvg-logo="https://www.upsieutoc.com/images/2018/11/12/VTC9.jpg" group-title="VTC HD",VTC9 HD
+https://cdn1.vtcnow.vn/live/eds/VTC9_9/hlsv3/VTC9_9-audio_20000=212400-video=572800.m3u8
+#EXTINF:-1 tvg-logo="https://www.upsieutoc.com/images/2018/11/12/VTC10.jpg" group-title="VTC HD",VTC10 HD
+https://cdn1.vtcnow.vn/live/eds/VTC10_10/hlsv3/VTC10_10-audio_20000=212400-video=1275600.m3u8
+#EXTINF:-1 tvg-logo="https://www.upsieutoc.com/images/2018/11/12/VTC11.jpg" group-title="VTC HD",VTC11 HD
+https://cdn1.vtcnow.vn/live/eds/VTC11_11/hlsv3/VTC11_11-audio_20000=212400-video=1275600.m3u8
+#EXTINF:-1 tvg-logo="https://www.upsieutoc.com/images/2018/11/12/VTC13.jpg" group-title="VTC HD",VTC13 HD
+https://cdn1.vtcnow.vn/live/eds/VTC13_13/hlsv3/VTC13_13-audio_20000=212400-video=867200.m3u8
+#EXTINF:-1 tvg-logo="https://www.upsieutoc.com/images/2018/11/12/VTC14.jpg" group-title="VTC HD",VTC14 HD
+https://cdn1.vtcnow.vn/live/eds/VTC14_14/hlsv3/VTC14_14-audio_20000=212400-video=1582000.m3u8
+#EXTINF:-1 tvg-logo="https://www.upsieutoc.com/images/2018/11/12/VTC16.jpg" group-title="VTC HD",VTC16 HD
+https://cdn1.vtcnow.vn/live/eds/VTC16_16/hlsv3/VTC16_16-audio_20000=212400-video=1275600.m3u8
+
+#EXTINF:-1 tvg-id="VTV 1 HD" tvg-name="VTV 1 HD" tvg-shift="" radio="" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv1_w150_h150.png" group-title="VTV HD",VTV1 HD
+https://hjyjrvmlsk.vcdn.com.vn/hls/elgfjdh/index.m3u8
+#EXTINF:-1 tvg-id="VTV 2 HD" tvg-name="VTV 2 HD" tvg-shift="" radio="" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv2_w150_h150.png" group-title="VTV HD",VTV2 HD
+https://hjyjrvmlsk.vcdn.com.vn/hls/m0hlc1s/index.m3u8
+#EXTINF:-1 tvg-id="VTV 3 HD" tvg-name="VTV 3 HD" tvg-shift="" radio="" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv3_w150_h150.png" group-title="VTV HD",VTV3 HD
+https://hjyjrvmlsk.vcdn.com.vn/hls/idmwifi/index.m3u8
+#EXTINF:-1 tvg-id="VTV 4 HD" tvg-name="VTV 4 HD" tvg-shift="" radio="" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv4_w150_h150.png" group-title="VTV HD",VTV 4 HD
+https://hjyjrvmlsk.vcdn.com.vn/hls/hktebdo/index.m3u8
+#EXTINF:-1 tvg-id="VTV 5 HD" tvg-name="VTV 5 HD" tvg-shift="" radio="" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv5_w150_h150.png" group-title="VTV HD",VTV 5 HD
+https://hjyjrvmlsk.vcdn.com.vn/hls/ira1wlr/index.m3u8
+#EXTINF:-1 tvg-id="VTV 6 HD" tvg-name="VTV 6 HD" tvg-shift="" radio="" tvg-logo="http://i.imgur.com/keIENsc.png" group-title="VTV HD",VTV6 HD
+https://hjyjrvmlsk.vcdn.com.vn/hls/fjg6388/index.m3u8
+#EXTINF:-1 tvg-id="VTV 7 HD" tvg-name="VTV 7 HD" tvg-shift="" radio="" tvg-logo="http://epg.kplus.vn/Images?filename=media%2f1200px-VTV7Logo.png" group-title="VTV HD",VTV 7 HD
+https://hjyjrvmlsk.vcdn.com.vn/hls/nwalmjv/index.m3u8
+#EXTINF:-1 tvg-id="VTV 8 HD" tvg-name="VTV 8 HD" tvg-shift="" radio="" tvg-logo="http://vtv1.vcmedia.vn/web_images/vtv8-3.png" group-title="VTV HD",VTV 8 HD
+https://hjyjrvmlsk.vcdn.com.vn/hls/wgabpze/index.m3u8
+#EXTINF:-1 tvg-id="VTV 9 HD" tvg-name="VTV 9 HD" tvg-shift="" radio="" tvg-logo="https://cdn.kplus.vn/content/upload/1/root/logo-vtv9_w150_h150.png" group-title="VTV HD",VTV 9 HD
+https://hjyjrvmlsk.vcdn.com.vn/hls/ig9jpqw/index.m3u8
