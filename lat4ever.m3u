@@ -1,5 +1,5 @@
-#EXTM3U group-title="LATTINO", LATTINO TV 
-
+#EXTM3U group-title="LAT4EVER", LATEVER TV 
+url="https://raw.githubusercontent.com/lat4ever/lat4ever/master/lat4ever.m3u"
 
 #EXTINF:-1,Da Vinci Learning HD
 http://42.116.153.89:8889/udp/225.1.1.197:30120
