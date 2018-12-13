@@ -1,610 +1,901 @@
-#EXTM3U
+#EXTM3U IPTV Playlist by Lat4ever 
 
-#EXTINF:-1,MTV
-http://42.116.153.238:8889/udp/225.1.1.245:30120
-#EXTINF:-1,Animal Planet
-http://42.116.153.238:8889/udp/225.1.1.231:30120
-#EXTINF:-1,Arirang
-http://42.116.153.238:8889/udp/225.1.1.201:30120
-#EXTINF:-1,Asian Food Channel HD
-http://42.116.153.238:8889/udp/225.1.1.198:30120
-#EXTINF:-1,Asian Food Channel HD
-http://42.116.153.238:8889/udp/225.1.2.98:30120
-#EXTINF:-1,Australia Plus
-http://42.116.153.238:8889/udp/225.1.2.21:30120
-#EXTINF:-1,AXN
-http://42.116.153.238:8889/udp/225.1.1.237:30120
-#EXTINF:-1,AXN HD
-http://42.116.153.238:8889/udp/225.1.2.224:30120
-#EXTINF:-1,AXN HD
-http://42.116.153.238:8889/udp/225.1.2.225:30120
-#EXTINF:-1,BBC Earth
-http://42.116.153.238:8889/udp/225.1.2.24:30120
-#EXTINF:-1,BBC Lifestyle
-http://42.116.153.238:8889/udp/225.1.2.52:30120
-#EXTINF:-1,BBC World News
-http://42.116.153.238:8889/udp/225.1.2.74:30120
-#EXTINF:-1,Cartoon Network
-http://42.116.153.238:8889/udp/225.1.1.240:30120
-#EXTINF:-1,Cartoon Network HD
-http://42.116.153.238:8889/udp/225.1.2.230:30120
-#EXTINF:-1,Cartoon Network HD
-http://42.116.153.238:8889/udp/225.1.2.231:30120
-#EXTINF:-1,Channel News Asia
-http://42.116.153.238:8889/udp/225.1.1.202:30120
-#EXTINF:-1,Channel [V]
-http://42.116.153.238:8889/udp/225.1.1.243:30120
-#EXTINF:-1,Channel [V] HD
-http://42.116.153.238:8889/udp/225.1.1.187:30120
-#EXTINF:-1,Channel [V] HD
-http://42.116.153.238:8889/udp/225.1.1.188:30120
-#EXTINF:-1,Cinema World
-http://42.116.153.238:8889/udp/225.1.1.142:30120
-#EXTINF:-1,CNBC
-http://42.116.153.238:8889/udp/225.1.1.227:30120
-#EXTINF:-1,CNN
-http://42.116.153.238:8889/udp/225.1.1.242:30120
-#EXTINF:-1,HBO
-http://42.116.153.238:8889/udp/225.1.1.2:30120
-#EXTINF:-1,The Mira Hotel
-http://42.116.153.238:8889/udp/225.1.1.123:30120
-#EXTINF:-1,FPT Mở Két
-http://42.116.153.238:8889/udp/225.1.1.26:30120
-#EXTINF:-1,FPT Mở Két
-http://42.116.153.238:8889/udp/225.1.1.97:30120
-#EXTINF:-1,FPT PIP 1
-http://42.116.153.238:8889/udp/225.1.2.42:30120
-#EXTINF:-1,FPT PIP 2
-http://42.116.153.238:8889/udp/225.1.2.49:30120
-#EXTINF:-1,FPT PIP 3
-http://42.116.153.238:8889/udp/225.1.2.72:30120
-#EXTINF:-1,Ca Nhạc
-http://42.116.153.238:8889/udp/225.1.1.9:30120
-#EXTINF:-1,Ca Nhạc 2
-http://42.116.153.238:8889/udp/225.1.1.8:30120
-#EXTINF:-1,FPT thử nghiệm 4K
-http://42.116.153.238:8889/udp/225.1.2.2:30120
-#EXTINF:-1,K+1 HD
-http://42.116.153.238:8889/udp/225.1.1.5:30120
-#EXTINF:-1,K+1 HD
-http://42.116.153.238:8889/udp/225.1.1.78:30120
-#EXTINF:-1,K+NS HD
-http://42.116.153.238:8889/udp/225.1.1.6:30120
-#EXTINF:-1,K+NS HD
-http://42.116.153.238:8889/udp/225.1.1.80:30120
-#EXTINF:-1,K+PM HD
-http://42.116.153.238:8889/udp/225.1.1.73:30120
-#EXTINF:-1,K+PM HD
-http://42.116.153.238:8889/udp/225.1.1.81:30120
-#EXTINF:-1,K+PC HD
-http://42.116.153.238:8889/udp/225.1.1.77:30120
-#EXTINF:-1,K+PC HD
-http://42.116.153.238:8889/udp/225.1.1.82:30120
-#EXTINF:-1,VTV1
-http://42.116.153.238:8889/udp/225.1.1.250:30120
-#EXTINF:-1,VTV1 HD
-http://42.116.153.238:8889/udp/225.1.2.248:30120
-#EXTINF:-1,VTV1 HD
-http://42.116.153.238:8889/udp/225.1.2.249:30120
-#EXTINF:-1,VTV2
-http://42.116.153.238:8889/udp/225.1.1.249:30120
-#EXTINF:-1,VTV2 HD
-http://42.116.153.238:8889/udp/225.1.2.14:30120
-#EXTINF:-1,VTV2 HD
-http://42.116.153.238:8889/udp/225.1.2.13:30120
-#EXTINF:-1,VTV3
-http://42.116.153.238:8889/udp/225.1.2.167:30120
-#EXTINF:-1,VTV3 HD
-http://42.116.153.238:8889/udp/225.1.2.246:30120
-#EXTINF:-1,VTV3 HD
-http://42.116.153.238:8889/udp/225.1.2.247:30120
-#EXTINF:-1,VTV4
-http://42.116.153.238:8889/udp/225.1.1.248:30120
-#EXTINF:-1,VTV4 HD
-http://42.116.153.238:8889/udp/225.1.1.211:30120
-#EXTINF:-1,VTV4 HD
-http://42.116.153.238:8889/udp/225.1.2.20:30120
-#EXTINF:-1,VTV5
-http://42.116.153.238:8889/udp/225.1.1.247:30120
-#EXTINF:-1,VTV5 HD
-http://42.116.153.238:8889/udp/225.1.1.129:30120
-#EXTINF:-1,VTV5 HD
-http://42.116.153.238:8889/udp/225.1.1.131:30120
-#EXTINF:-1,VTV6
-http://42.116.153.238:8889/udp/225.1.1.246:30120
-#EXTINF:-1,VTV6 HD
-http://42.116.153.238:8889/udp/225.1.2.244:30120
-#EXTINF:-1,VTV6 HD
-http://42.116.153.238:8889/udp/225.1.2.245:30120
-#EXTINF:-1,VTV7 HD
-http://42.116.153.238:8889/udp/225.1.2.96:30120
-#EXTINF:-1,VTV7 HD
-http://42.116.153.238:8889/udp/225.1.2.97:30120
-#EXTINF:-1,VTV8 HD
-http://42.116.153.238:8889/udp/225.1.2.142:30120
-#EXTINF:-1,VTV8 HD
-http://42.116.153.238:8889/udp/225.1.2.166:30120
-#EXTINF:-1,VTV9
-http://42.116.153.238:8889/udp/225.1.1.153:30120
-#EXTINF:-1,VTV9 HD
-http://42.116.153.238:8889/udp/225.1.1.126:30120
-#EXTINF:-1,VTV9 HD
-http://42.116.153.238:8889/udp/225.1.1.128:30120
-#EXTINF:-1,VTVCab1 - Giải Trí TV
-http://42.116.153.238:8889/udp/225.1.2.150:30120
-#EXTINF:-1,VTVCab2 - Phim Việt
-http://42.116.153.238:8889/udp/225.1.2.159:30120
-#EXTINF:-1,VTVCab3 - Thể Thao TV HD
-http://42.116.153.238:8889/udp/225.1.2.240:30120
-#EXTINF:-1,VTVCab3 - Thể Thao TV HD
-http://42.116.153.238:8889/udp/225.1.2.241:30120
-#EXTINF:-1,VTVCab4 - Văn Hóa
-http://42.116.153.238:8889/udp/225.1.2.153:30120
-#EXTINF:-1,VTVCab5 - E Channel
-http://42.116.153.238:8889/udp/225.1.2.156:30120
-#EXTINF:-1,VTVCab6 - Hay TV
-http://42.116.153.238:8889/udp/225.1.1.254:30120
-#EXTINF:-1,VTVCab7 - D Dramas
-http://42.116.153.238:8889/udp/225.1.2.157:30120
-#EXTINF:-1,VTVCab8 - Bibi
-http://42.116.153.238:8889/udp/225.1.2.161:30120
-#EXTINF:-1,VTVCab9 - Info TV
-http://42.116.153.238:8889/udp/225.1.2.154:30120
-#EXTINF:-1,VTVCab10 - O2TV
-http://42.116.153.238:8889/udp/225.1.2.152:30120
-#EXTINF:-1,VTVCab11 - VGS Shop
-http://42.116.153.238:8889/udp/225.1.1.252:30120
-#EXTINF:-1,VTVCab12 - Style TV
-http://42.116.153.238:8889/udp/225.1.2.155:30120
-#EXTINF:-1,VTVCab13 - VTV Hyundai Homeshopping
-http://42.116.153.238:8889/udp/225.1.1.122:30120
-#EXTINF:-1,VTVCab14 - Lotte Datviet Homeshopping
-http://42.116.153.238:8889/udp/225.1.1.253:30120
-#EXTINF:-1,VTVCab15 - M Channel
-http://42.116.153.238:8889/udp/225.1.1.251:30120
-#EXTINF:-1,VTVCab16 - Bóng Đá TV HD
-http://42.116.153.238:8889/udp/225.1.2.242:30120
-#EXTINF:-1,VTVCab16 - Bóng Đá TV HD
-http://42.116.153.238:8889/udp/225.1.2.243:30120
-#EXTINF:-1,VTVCab17 - Yeah1 !TV
-http://42.116.153.238:8889/udp/225.1.2.151:30120
-#EXTINF:-1,VTVCab19 - Film TV
-http://42.116.153.238:8889/udp/225.1.2.207:30120
-#EXTINF:-1,VTVCab20 - V Family
-http://42.116.153.238:8889/udp/225.1.1.15:30120
-#EXTINF:-1,VTVCab21 - SaoTV Bibi+ HD
-http://42.116.153.238:8889/udp/225.1.2.82:30120
-#EXTINF:-1,VTVCab21 - SaoTV Bibi+ HD
-http://42.116.153.238:8889/udp/225.1.2.103:30120
-#EXTINF:-1,VOV
-http://42.116.153.238:8889/udp/225.1.2.171:30120
-#EXTINF:-1,Thông Tấn Xã Việt Nam
-http://42.116.153.238:8889/udp/225.1.1.167:30120
-#EXTINF:-1,Thông Tấn Xã Việt Nam HD
-http://42.116.153.238:8889/udp/225.1.1.43:30120
-#EXTINF:-1,An Ninh TV HD
-http://42.116.153.238:8889/udp/225.1.2.169:30120
-#EXTINF:-1,An Ninh Thế Giới HD
-http://42.116.153.238:8889/udp/225.1.1.208:30120
-#EXTINF:-1,Nhân Dân HD
-http://42.116.153.238:8889/udp/225.1.1.91:30120
-#EXTINF:-1,Quốc Hội HD
-http://42.116.153.238:8889/udp/225.1.2.148:30120
-#EXTINF:-1,Quốc Hội HD
-http://42.116.153.238:8889/udp/225.1.2.149:30120
-#EXTINF:-1,Quốc Phòng Việt Nam
-http://42.116.153.238:8889/udp/225.1.1.226:30120
-#EXTINF:-1,Quốc Phòng Việt Nam HD
-http://42.116.153.238:8889/udp/225.1.2.216:30120
-#EXTINF:-1,Quốc Phòng Việt Nam HD
-http://42.116.153.238:8889/udp/225.1.2.217:30120
-#EXTINF:-1,HTV1
-http://42.116.153.238:8889/udp/225.1.1.1:30120
-#EXTINF:-1,HTV1
-http://42.116.153.238:8889/udp/225.1.1.180:30120
-#EXTINF:-1,HTV1
-http://42.116.153.238:8889/udp/225.1.2.11:30120
-#EXTINF:-1,HTV2
-http://42.116.153.238:8889/udp/225.1.1.179:30120
-#EXTINF:-1,HTV2 HD
-http://42.116.153.238:8889/udp/225.1.1.193:30120
-#EXTINF:-1,HTV3
-http://42.116.153.238:8889/udp/225.1.1.178:30120
-#EXTINF:-1,HTV4
-http://42.116.153.238:8889/udp/225.1.1.177:30120
-#EXTINF:-1,HTV7
-http://42.116.153.238:8889/udp/225.1.1.176:30120
-#EXTINF:-1,HTV7 HD
-http://42.116.153.238:8889/udp/225.1.1.191:30120
-#EXTINF:-1,HTV7 HD
-http://42.116.153.238:8889/udp/225.1.1.192:30120
-#EXTINF:-1,HTV9
-http://42.116.153.238:8889/udp/225.1.1.175:30120
-#EXTINF:-1,HTV9 HD
-http://42.116.153.238:8889/udp/225.1.1.189:30120
-#EXTINF:-1,HTV9 HD
-http://42.116.153.238:8889/udp/225.1.1.190:30120
-#EXTINF:-1,HTV Thể Thao
-http://42.116.153.238:8889/udp/225.1.1.165:30120
-#EXTINF:-1,HTVC Du Lịch và Cuộc Sống
-http://42.116.153.238:8889/udp/225.1.1.166:30120
-#EXTINF:-1,HTVC FBNC
-http://42.116.153.238:8889/udp/225.1.1.169:30120
-#EXTINF:-1,HTVC FBNC HD
-http://42.116.153.238:8889/udp/225.1.1.181:30120
-#EXTINF:-1,HTVC FBNC HD
-http://42.116.153.238:8889/udp/225.1.1.182:30120
-#EXTINF:-1,HTVC Gia Đình
-http://42.116.153.238:8889/udp/225.1.1.170:30120
-#EXTINF:-1,HTVC Phim - Paramount Channel
-http://42.116.153.238:8889/udp/225.1.1.173:30120
-#EXTINF:-1,HTVC Phim - Paramount Channel HD
-http://42.116.153.238:8889/udp/225.1.1.183:30120
-#EXTINF:-1,HTVC Phim - Paramount Channel HD
-http://42.116.153.238:8889/udp/225.1.1.184:30120
-#EXTINF:-1,HTVC Phụ Nữ
-http://42.116.153.238:8889/udp/225.1.1.171:30120
-#EXTINF:-1,HTVC Shopping - VGS Shop
-http://42.116.153.238:8889/udp/225.1.1.172:30120
-#EXTINF:-1,HTVC Thuần Việt
-http://42.116.153.238:8889/udp/225.1.1.174:30120
-#EXTINF:-1,HTVC Thuần Việt HD
-http://42.116.153.238:8889/udp/225.1.1.185:30120
-#EXTINF:-1,HTVC Thuần Việt HD
-http://42.116.153.238:8889/udp/225.1.1.186:30120
-#EXTINF:-1,VTC1
-http://42.116.153.238:8889/udp/225.1.2.203:30120
-#EXTINF:-1,VTC1 HD
-http://42.116.153.238:8889/udp/225.1.2.254:30120
-#EXTINF:-1,VTC2 - #Kênh2
-http://42.116.153.238:8889/udp/225.1.2.202:30120
-#EXTINF:-1,VTC3
-http://42.116.153.238:8889/udp/225.1.2.201:30120
-#EXTINF:-1,VTC3 HD
-http://42.116.153.238:8889/udp/225.1.2.251:30120
-#EXTINF:-1,Yeah1 !Family - VTC4 HD
-http://42.116.153.238:8889/udp/225.1.2.200:30120
-#EXTINF:-1,tvBlue - VTC5
-http://42.116.153.238:8889/udp/225.1.2.199:30120
-#EXTINF:-1,VTC6
-http://42.116.153.238:8889/udp/225.1.2.198:30120
-#EXTINF:-1,Today TV - VTC7
-http://42.116.153.238:8889/udp/225.1.2.197:30120
-#EXTINF:-1,View TV - VTC8
-http://42.116.153.238:8889/udp/225.1.2.196:30120
-#EXTINF:-1,Let&#039;s Việt - VTC9
-http://42.116.153.238:8889/udp/225.1.2.195:30120
-#EXTINF:-1,Nét Việt - VTC10
-http://42.116.153.238:8889/udp/225.1.2.194:30120
-#EXTINF:-1,Kids &amp; Family TV - VTC11
-http://42.116.153.238:8889/udp/225.1.2.193:30120
-#EXTINF:-1,VTC12
-http://42.116.153.238:8889/udp/225.1.2.192:30120
-#EXTINF:-1,VTC13
-http://42.116.153.238:8889/udp/225.1.2.189:30120
-#EXTINF:-1,VTC13
-http://42.116.153.238:8889/udp/225.1.2.250:30120
-#EXTINF:-1,VTC14
-http://42.116.153.238:8889/udp/225.1.2.191:30120
-#EXTINF:-1,VTC14 HD
-http://42.116.153.238:8889/udp/225.1.2.88:30120
-#EXTINF:-1,3NTV - VTC16
-http://42.116.153.238:8889/udp/225.1.2.190:30120
-#EXTINF:-1,SaoNamShopping-SCTV10
-http://42.116.153.238:8889/udp/225.1.2.205:30120
-#EXTINF:-1,Việt Teen - BTV6
-http://42.116.153.238:8889/udp/225.1.1.223:30120
-#EXTINF:-1,NCM - BTV10
-http://42.116.153.238:8889/udp/225.1.1.225:30120
-#EXTINF:-1,SAM - BTV11
-http://42.116.153.238:8889/udp/225.1.1.224:30120
-#EXTINF:-1,Phim Hay
-http://42.116.153.238:8889/udp/225.1.1.222:30120
-#EXTINF:-1,Miền Tây - THDT2
-http://42.116.153.238:8889/udp/225.1.1.221:30120
-#EXTINF:-1,Hà Nội 1 HD
-http://42.116.153.238:8889/udp/225.1.2.186:30120
-#EXTINF:-1,Hà Nội 2 HD
-http://42.116.153.238:8889/udp/225.1.1.125:30120
-#EXTINF:-1,HiTV - Hanoicab1
-http://42.116.153.238:8889/udp/225.1.1.209:30120
-#EXTINF:-1,You!TV - Hanoicab2
-http://42.116.153.238:8889/udp/225.1.1.207:30120
-#EXTINF:-1,MOV HD - Hanoicab4
-http://42.116.153.238:8889/udp/225.1.1.206:30120
-#EXTINF:-1,Việt Nam Nét
-http://42.116.153.238:8889/udp/225.1.1.194:30120
-#EXTINF:-1,An Giang 1
-http://42.116.153.238:8889/udp/225.1.2.173:30120
-#EXTINF:-1,Bà Rịa Vũng Tàu
-http://42.116.153.238:8889/udp/225.1.2.175:30120
-#EXTINF:-1,Bạc Liêu
-http://42.116.153.238:8889/udp/225.1.1.61:30120
-#EXTINF:-1,Bắc Giang
-http://42.116.153.238:8889/udp/225.1.1.164:30120
-#EXTINF:-1,Bắc Ninh
-http://42.116.153.238:8889/udp/225.1.1.40:30120
-#EXTINF:-1,Bến Tre
-http://42.116.153.238:8889/udp/225.1.1.156:30120
-#EXTINF:-1,Bình Dương 1 HD
-http://42.116.153.238:8889/udp/225.1.1.150:30120
-#EXTINF:-1,Bình Dương 2 HD
-http://42.116.153.238:8889/udp/225.1.1.149:30120
-#EXTINF:-1,iMOVIE TV HD - BTV4 HD
-http://42.116.153.238:8889/udp/225.1.1.29:30120
-#EXTINF:-1,iMOVIE TV HD - BTV4 HD
-http://42.116.153.238:8889/udp/225.1.1.30:30120
-#EXTINF:-1,Bình Định
-http://42.116.153.238:8889/udp/225.1.1.145:30120
-#EXTINF:-1,Bình Phước 1
-http://42.116.153.238:8889/udp/225.1.2.23:30120
-#EXTINF:-1,BPTV2 - HOMETV
-http://42.116.153.238:8889/udp/225.1.2.38:30120
-#EXTINF:-1,Bình Thuận
-http://42.116.153.238:8889/udp/225.1.1.124:30120
-#EXTINF:-1,Cà Mau
-http://42.116.153.238:8889/udp/225.1.1.104:30120
-#EXTINF:-1,Cao Bằng
-http://42.116.153.238:8889/udp/225.1.1.102:30120
-#EXTINF:-1,Cần Thơ
-http://42.116.153.238:8889/udp/225.1.1.132:30120
-#EXTINF:-1,Đà Nẵng 1
-http://42.116.153.238:8889/udp/225.1.1.147:30120
-#EXTINF:-1,Đà Nẵng 2 HD
-http://42.116.153.238:8889/udp/225.1.1.146:30120
-#EXTINF:-1,Đắk Lắk
-http://42.116.153.238:8889/udp/225.1.1.64:30120
-#EXTINF:-1,Điện Biên
-http://42.116.153.238:8889/udp/225.1.1.74:30120
-#EXTINF:-1,Đồng Nai 1
-http://42.116.153.238:8889/udp/225.1.1.152:30120
-#EXTINF:-1,Đồng Nai 2
-http://42.116.153.238:8889/udp/225.1.1.151:30120
-#EXTINF:-1,AZSHOP - DN9
-http://42.116.153.238:8889/udp/225.1.1.134:30120
-#EXTINF:-1,Đồng Tháp 1
-http://42.116.153.238:8889/udp/225.1.1.163:30120
-#EXTINF:-1,Gia Lai
-http://42.116.153.238:8889/udp/225.1.2.176:30120
-#EXTINF:-1,Hà Giang
-http://42.116.153.238:8889/udp/225.1.1.62:30120
-#EXTINF:-1,Hà Nam
-http://42.116.153.238:8889/udp/225.1.1.63:30120
-#EXTINF:-1,Hà Tĩnh
-http://42.116.153.238:8889/udp/225.1.1.75:30120
-#EXTINF:-1,Hải Dương
-http://42.116.153.238:8889/udp/225.1.1.158:30120
-#EXTINF:-1,Hải Phòng HD
-http://42.116.153.238:8889/udp/225.1.1.44:30120
-#EXTINF:-1,Hậu Giang
-http://42.116.153.238:8889/udp/225.1.1.157:30120
-#EXTINF:-1,Hòa Bình
-http://42.116.153.238:8889/udp/225.1.2.168:30120
-#EXTINF:-1,Hưng Yên
-http://42.116.153.238:8889/udp/225.1.1.118:30120
-#EXTINF:-1,Khánh Hòa
-http://42.116.153.238:8889/udp/225.1.1.133:30120
-#EXTINF:-1,Kiên Giang
-http://42.116.153.238:8889/udp/225.1.2.182:30120
-#EXTINF:-1,Kon Tum
-http://42.116.153.238:8889/udp/225.1.1.36:30120
-#EXTINF:-1,Lạng Sơn
-http://42.116.153.238:8889/udp/225.1.1.160:30120
-#EXTINF:-1,Lào Cai
-http://42.116.153.238:8889/udp/225.1.1.119:30120
-#EXTINF:-1,Lâm Đồng
-http://42.116.153.238:8889/udp/225.1.2.177:30120
-#EXTINF:-1,Long An 34
-http://42.116.153.238:8889/udp/225.1.1.162:30120
-#EXTINF:-1,Nam Định
-http://42.116.153.238:8889/udp/225.1.1.120:30120
-#EXTINF:-1,Nghệ An
-http://42.116.153.238:8889/udp/225.1.2.183:30120
-#EXTINF:-1,Ninh Bình
-http://42.116.153.238:8889/udp/225.1.2.185:30120
-#EXTINF:-1,Ninh Thuận
-http://42.116.153.238:8889/udp/225.1.2.178:30120
-#EXTINF:-1,Phú Thọ
-http://42.116.153.238:8889/udp/225.1.2.165:30120
-#EXTINF:-1,Phú Yên
-http://42.116.153.238:8889/udp/225.1.2.58:30120
-#EXTINF:-1,Quảng Bình
-http://42.116.153.238:8889/udp/225.1.2.164:30120
-#EXTINF:-1,Quảng Nam
-http://42.116.153.238:8889/udp/225.1.2.50:30120
-#EXTINF:-1,Quảng Ngãi
-http://42.116.153.238:8889/udp/225.1.2.174:30120
-#EXTINF:-1,Quảng Ninh 1
-http://42.116.153.238:8889/udp/225.1.2.181:30120
-#EXTINF:-1,Quảng Ninh 3
-http://42.116.153.238:8889/udp/225.1.2.180:30120
-#EXTINF:-1,Quảng Trị
-http://42.116.153.238:8889/udp/225.1.1.117:30120
-#EXTINF:-1,Sóc Trăng 1
-http://42.116.153.238:8889/udp/225.1.1.159:30120
-#EXTINF:-1,Sơn La
-http://42.116.153.238:8889/udp/225.1.1.98:30120
-#EXTINF:-1,Tây Ninh 11
-http://42.116.153.238:8889/udp/225.1.1.130:30120
-#EXTINF:-1,Thái Bình
-http://42.116.153.238:8889/udp/225.1.1.99:30120
-#EXTINF:-1,Thái Nguyên 1
-http://42.116.153.238:8889/udp/225.1.2.179:30120
-#EXTINF:-1,Thanh Hóa
-http://42.116.153.238:8889/udp/225.1.2.184:30120
-#EXTINF:-1,Thừa Thiên Huế
-http://42.116.153.238:8889/udp/225.1.1.161:30120
-#EXTINF:-1,Tiền Giang
-http://42.116.153.238:8889/udp/225.1.2.170:30120
-#EXTINF:-1,Trà Vinh
-http://42.116.153.238:8889/udp/225.1.2.172:30120
-#EXTINF:-1,Tuyên Quang
-http://42.116.153.238:8889/udp/225.1.2.188:30120
-#EXTINF:-1,Vĩnh Long 1
-http://42.116.153.238:8889/udp/225.1.1.155:30120
-#EXTINF:-1,Vĩnh Long 2
-http://42.116.153.238:8889/udp/225.1.1.154:30120
-#EXTINF:-1,Vĩnh Phúc
-http://42.116.153.238:8889/udp/225.1.2.99:30120
-#EXTINF:-1,Yên Bái
-http://42.116.153.238:8889/udp/225.1.1.39:30120
-#EXTINF:-1,Da Vinci Learning HD
-http://42.116.153.238:8889/udp/225.1.1.197:30120
-#EXTINF:-1,Da Vinci Learning HD
-http://42.116.153.238:8889/udp/225.1.2.253:30120
-#EXTINF:-1,Discovery Asia HD
-http://42.116.153.238:8889/udp/225.1.2.222:30120
-#EXTINF:-1,Discovery Asia HD
-http://42.116.153.238:8889/udp/225.1.2.223:30120
-#EXTINF:-1,Discovery Channel
-http://42.116.153.238:8889/udp/225.1.1.238:30120
-#EXTINF:-1,Disney Channel
-http://42.116.153.238:8889/udp/225.1.1.232:30120
-#EXTINF:-1,Disney Channel HD
-http://42.116.153.238:8889/udp/225.1.2.158:30120
-#EXTINF:-1,Disney Channel HD
-http://42.116.153.238:8889/udp/225.1.2.160:30120
-#EXTINF:-1,Disney Junior
-http://42.116.153.238:8889/udp/225.1.1.233:30120
-#EXTINF:-1,Diva
-http://42.116.153.238:8889/udp/225.1.1.199:30120
-#EXTINF:-1,DW
-http://42.116.153.238:8889/udp/225.1.1.203:30120
-#EXTINF:-1,DW HD
-http://42.116.153.238:8889/udp/225.1.1.46:30120
-#EXTINF:-1,Fashion TV
-http://42.116.153.238:8889/udp/225.1.1.234:30120
-#EXTINF:-1,Fashion TV HD
-http://42.116.153.238:8889/udp/225.1.2.226:30120
-#EXTINF:-1,Fashion TV HD
-http://42.116.153.238:8889/udp/225.1.2.227:30120
-#EXTINF:-1,Fox Sports
-http://42.116.153.238:8889/udp/225.1.1.239:30120
-#EXTINF:-1,Fox Sports HD
-http://42.116.153.238:8889/udp/225.1.2.228:30120
-#EXTINF:-1,Fox Sports HD
-http://42.116.153.238:8889/udp/225.1.2.229:30120
-#EXTINF:-1,Fox Sports 2
-http://42.116.153.238:8889/udp/225.1.1.241:30120
-#EXTINF:-1,Fox Sports 2 HD
-http://42.116.153.238:8889/udp/225.1.1.108:30120
-#EXTINF:-1,Fox Sports 2 HD
-http://42.116.153.238:8889/udp/225.1.1.141:30120
-#EXTINF:-1,France 24
-http://42.116.153.238:8889/udp/225.1.2.211:30120
-#EXTINF:-1,GEM HD
-http://42.116.153.238:8889/udp/225.1.1.17:30120
-#EXTINF:-1,GEM HD
-http://42.116.153.238:8889/udp/225.1.1.60:30120
-#EXTINF:-1,HBO SD
-http://42.116.153.238:8889/udp/225.1.1.48:30120
-#EXTINF:-1,HBO SD
-http://42.116.153.238:8889/udp/225.1.1.235:30120
-#EXTINF:-1,HBO HD
-http://42.116.153.238:8889/udp/225.1.2.232:30120
-#EXTINF:-1,HBO HD
-http://42.116.153.238:8889/udp/225.1.2.233:30120
-#EXTINF:-1,MAX by HBO
-http://42.116.153.238:8889/udp/225.1.1.230:30120
-#EXTINF:-1,MAX by HBO HD
-http://42.116.153.238:8889/udp/225.1.2.86:30120
-#EXTINF:-1,MAX by HBO HD
-http://42.116.153.238:8889/udp/225.1.2.91:30120
-#EXTINF:-1,National Geographic
-http://42.116.153.238:8889/udp/225.1.1.244:30120
-#EXTINF:-1,National Geographic HD
-http://42.116.153.238:8889/udp/225.1.2.234:30120
-#EXTINF:-1,National Geographic HD
-http://42.116.153.238:8889/udp/225.1.2.235:30120
-#EXTINF:-1,NHK World
-http://42.116.153.238:8889/udp/225.1.1.196:30120
-#EXTINF:-1,NHK World HD
-http://42.116.153.238:8889/udp/225.1.1.47:30120
-#EXTINF:-1,Outdoor Channel HD
-http://42.116.153.238:8889/udp/225.1.2.214:30120
-#EXTINF:-1,Outdoor Channel HD
-http://42.116.153.238:8889/udp/225.1.2.215:30120
-#EXTINF:-1,RED by HBO HD
-http://42.116.153.238:8889/udp/225.1.1.89:30120
-#EXTINF:-1,RED by HBO HD
-http://42.116.153.238:8889/udp/225.1.1.93:30120
-#EXTINF:-1,Star Movies
-http://42.116.153.238:8889/udp/225.1.1.205:30120
-#EXTINF:-1,Star Movies HD
-http://42.116.153.238:8889/udp/225.1.2.238:30120
-#EXTINF:-1,Star Movies HD
-http://42.116.153.238:8889/udp/225.1.2.239:30120
-#EXTINF:-1,Fox Life
-http://42.116.153.238:8889/udp/225.1.1.204:30120
-#EXTINF:-1,Fox Life HD
-http://42.116.153.238:8889/udp/225.1.2.236:30120
-#EXTINF:-1,Fox Life HD
-http://42.116.153.238:8889/udp/225.1.2.237:30120
-#EXTINF:-1,TLC
-http://42.116.153.238:8889/udp/225.1.1.236:30120
-#EXTINF:-1,Toonami HD
-http://42.116.153.238:8889/udp/225.1.2.163:30120
-#EXTINF:-1,Toonami HD
-http://42.116.153.238:8889/udp/225.1.2.220:30120
-#EXTINF:-1,TV5Monde Asia
-http://42.116.153.238:8889/udp/225.1.1.200:30120
-#EXTINF:-1,Warner Bros TV
-http://42.116.153.238:8889/udp/225.1.1.139:30120
-#EXTINF:-1,Quang cao the thao FPT
-http://42.116.153.238:8889/udp/225.1.2.252:30120
-#EXTINF:-1,Fashion
-http://42.116.153.238:8889/udp/225.1.1.20:30120
-#EXTINF:-1,FOX HD
-http://42.116.153.238:8889/udp/225.1.1.51:30120
-#EXTINF:-1,FPT Quảng Cáo HD
-http://42.116.153.238:8889/udp/225.1.1.137:30120
-#EXTINF:-1,FOX HD
-http://42.116.153.238:8889/udp/225.1.1.52:30120
-#EXTINF:-1,Kenh truc tiep
-http://42.116.153.238:8889/udp/225.1.1.13:30120
-#EXTINF:-1,Babytv
-http://42.116.153.238:8889/udp/225.1.2.146:30120
-#EXTINF:-1,Babytv
-http://42.116.153.238:8889/udp/225.1.2.147:30120
-#EXTINF:-1,G Channel - SCTV4
-http://42.116.153.238:8889/udp/225.1.2.187:30120
-#EXTINF:-1,N/A
-http://42.116.153.238:8889/udp/225.1.2.100:30120
-#EXTINF:-1,KIX HD
-http://42.116.153.238:8889/udp/225.1.2.144:30120
-#EXTINF:-1,KIX HD
-http://42.116.153.238:8889/udp/225.1.2.145:30120
-#EXTINF:-1,VITV
-http://42.116.153.238:8889/udp/225.1.2.143:30120
-#EXTINF:-1,BBC Earth HD
-http://42.116.153.238:8889/udp/225.1.2.25:30120
-#EXTINF:-1,Warner Bros TV HD
-http://42.116.153.238:8889/udp/225.1.1.140:30120
-#EXTINF:-1,K PM HD
-http://42.116.153.238:8889/udp/225.1.1.70:30120
-#EXTINF:-1,BTV
-http://42.116.153.238:8889/udp/225.1.1.83:30120
-#EXTINF:-1,NTV
-http://42.116.153.238:8889/udp/225.1.1.85:30120
-#EXTINF:-1,HTV
-http://42.116.153.238:8889/udp/225.1.1.210:30120
-#EXTINF:-1,VTV3 HD (HD 2Mbps) (Dự phòng)
-http://42.116.153.238:8889/udp/225.1.2.101:30120
-#EXTINF:-1,VTV3 HD (HD 720p) (Dự phòng)
-http://42.116.153.238:8889/udp/225.1.2.102:30120
-#EXTINF:-1,Cinema World (HD 4Mbps)
-http://42.116.153.238:8889/udp/225.1.1.143:30120
-#EXTINF:-1,The Ocean Resort
-http://42.116.153.238:8889/udp/225.1.1.121:30120
-#EXTINF:-1,Unknown Channel (DRM)
-http://42.116.153.238:8889/udp/225.1.2.1:30120
-#EXTINF:-1,Satellite TV
-http://42.116.153.238:8889/udp/225.1.1.7:30120
-#EXTINF:-1,FOX SPORTS (50i)
-http://42.116.153.238:8889/udp/225.1.1.86:30120
-#EXTINF:-1,FPT Sự Kiện (HD 4Mbps)
-http://42.116.153.238:8889/udp/225.1.1.38:30120
-#EXTINF:-1,FPT Sự Kiện (HD 8Mbps)
-http://42.116.153.238:8889/udp/225.1.1.96:30120
-#EXTINF:-1,VTC3 HD (HD 4Mbps)
-http://42.116.153.238:8889/udp/225.1.1.114:30120
+
+#EXTINF:-1 tvg-logo="" group-title="beIN Sports 1",beIN Sports 1 HD (AR) 
+
+http://www.freeiptvdaily.net:8000/live/Lqa65johNV/freeiptvdaily.tv/2.ts 
+
+#EXTINF:-1 tvg-logo="" group-title="beIN Sports 1",beIN Sports 2 HD (AR) 
+
+http://www.freeiptvdaily.net:8000/live/Lqa65johNV/freeiptvdaily.tv/3.ts 
+
+#EXTINF:-1 tvg-logo="" group-title="beIN Sports 1",beIN Sports 3 HD (AR) 
+
+http://www.freeiptvdaily.net:8000/live/Lqa65johNV/freeiptvdaily.tv/4.ts 
+
+#EXTINF:-1 tvg-logo="" group-title="beIN Sports 1",beIN Sport 4 HD (AR) 
+
+http://www.freeiptvdaily.net:8000/live/Lqa65johNV/freeiptvdaily.tv/5.ts 
+
+#EXTINF:-1 tvg-logo="" group-title="beIN Sports 1",beIN Sports 5 HD (AR) 
+
+http://www.freeiptvdaily.net:8000/live/Lqa65johNV/freeiptvdaily.tv/6.ts 
+
+#EXTINF:-1 tvg-logo="" group-title="beIN Sports 1",beIN Sports 6 HD (AR) 
+
+http://www.freeiptvdaily.net:8000/live/Lqa65johNV/freeiptvdaily.tv/7.ts 
+
+#EXTINF:-1 tvg-logo="" group-title="beIN Sports 1",beIN Sports 7 HD (AR) 
+
+http://www.freeiptvdaily.net:8000/live/Lqa65johNV/freeiptvdaily.tv/8.ts 
+
+#EXTINF:-1 tvg-logo="" group-title="beIN Sports 1",beIN Sports 8 HD (AR) 
+
+http://www.freeiptvdaily.net:8000/live/Lqa65johNV/freeiptvdaily.tv/9.ts 
+
+#EXTINF:-1 tvg-logo="" group-title="beIN Sports 1",beIN Sports 9 HD (AR) 
+
+http://www.freeiptvdaily.net:8000/live/Lqa65johNV/freeiptvdaily.tv/10.ts 
+
+#EXTINF:-1 tvg-logo="" group-title="beIN Sports 1",beIN Sports 1 HD (FR) 
+
+http://www.freeiptvdaily.net:8000/live/Lqa65johNV/freeiptvdaily.tv/20.ts 
+
+#EXTINF:-1 tvg-logo="" group-title="beIN Sports 1",beIN Sports 2 HD (FR) 
+
+http://www.freeiptvdaily.net:8000/live/Lqa65johNV/freeiptvdaily.tv/21.ts 
+
+#EXTINF:-1 tvg-logo="" group-title="beIN Sports 1",beIN Sports 3 HD (FR) 
+
+http://www.freeiptvdaily.net:8000/live/Lqa65johNV/freeiptvdaily.tv/22.ts 
+
+#EXTINF:-1 tvg-logo="" group-title="beIN Sports 1",beIN Sports HD (ES) 
+
+http://www.freeiptvdaily.net:8000/live/Lqa65johNV/freeiptvdaily.tv/23.ts 
+
+#EXTINF:-1 tvg-logo="" group-title="beIN Sports 1",beIN Sports USA HD (US) 
+
+http://www.freeiptvdaily.net:8000/live/Lqa65johNV/freeiptvdaily.tv/24.ts 
+
+#EXTINF:-1 tvg-logo="" group-title="beIN Sports 1",beIN Sports 1 (TR) 
+
+http://www.freeiptvdaily.net:8000/live/Lqa65johNV/freeiptvdaily.tv/25.ts 
+
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Bein Sport HD 
+
+http://smart-hdip.com:6204/zamir/zamir/2568 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Bein Sport News HD 
+
+http://smart-hdip.com:6204/zamir/zamir/2567 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Bein Sport HD1 1080i 
+
+http://smart-hdip.com:6204/zamir/zamir/127 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Bein Sport HD2 1080i 
+
+http://smart-hdip.com:6204/zamir/zamir/128 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Bein Sport HD3 1080i 
+
+http://smart-hdip.com:6204/zamir/zamir/129 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Bein Sport HD4 1080i 
+
+http://smart-hdip.com:6204/zamir/zamir/130 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Bein Sport HD5 1080i 
+
+http://smart-hdip.com:6204/zamir/zamir/132 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Bein Sport HD6 1080i 
+
+http://smart-hdip.com:6204/zamir/zamir/133 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Bein Sport HD7 1080i 
+
+http://smart-hdip.com:6204/zamir/zamir/134 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Bein Sport HD8 1080i 
+
+http://smart-hdip.com:6204/zamir/zamir/135 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Bein Sport HD9 1080i 
+
+http://smart-hdip.com:6204/zamir/zamir/186 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Bein Sport HD10 1080i 
+
+http://smart-hdip.com:6204/zamir/zamir/187 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Bein Sport HD11 EN 1080i 
+
+http://smart-hdip.com:6204/zamir/zamir/188 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Bein Sport HD12 EN 1080i 
+
+http://smart-hdip.com:6204/zamir/zamir/189 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Bein Sport HD13 EN 1080i 
+
+http://smart-hdip.com:6204/zamir/zamir/1694 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Bein Sport HD14 Fr 1080i 
+
+http://smart-hdip.com:6204/zamir/zamir/2555 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Bein Sport HD15 Fr 1080i 
+
+http://smart-hdip.com:6204/zamir/zamir/4763 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Bein Sport HD16 Fr 1080i 
+
+http://smart-hdip.com:6204/zamir/zamir/4762 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Bein Sport NBA HD 
+
+http://smart-hdip.com:6204/zamir/zamir/6434 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Bein Sport HD1 720P 
+
+http://smart-hdip.com:6204/zamir/zamir/9022 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Bein Sport HD2 720P 
+
+http://smart-hdip.com:6204/zamir/zamir/9021 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Bein Sport HD3 720P 
+
+http://smart-hdip.com:6204/zamir/zamir/9020 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Bein Sport HD4 720P 
+
+http://smart-hdip.com:6204/zamir/zamir/9019 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Bein Sport HD5 720P 
+
+http://smart-hdip.com:6204/zamir/zamir/9018 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Bein Sport HD6 720P 
+
+http://smart-hdip.com:6204/zamir/zamir/9017 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Bein Sport HD7 720P 
+
+http://smart-hdip.com:6204/zamir/zamir/9016 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Bein Sport HD8 720P 
+
+http://smart-hdip.com:6204/zamir/zamir/9015 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Bein Sport HD9 720P 
+
+http://smart-hdip.com:6204/zamir/zamir/9014 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Bein Sport HD10 720P 
+
+http://smart-hdip.com:6204/zamir/zamir/9013 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Bein Sport HD11 EN 720P 
+
+http://smart-hdip.com:6204/zamir/zamir/9012 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",bein Sport SD1 
+
+http://smart-hdip.com:6204/zamir/zamir/1913 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Bein Sport SD2 
+
+http://smart-hdip.com:6204/zamir/zamir/1914 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Bein Sport SD3 
+
+http://smart-hdip.com:6204/zamir/zamir/1915 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Bein Sport SD4 
+
+http://smart-hdip.com:6204/zamir/zamir/1916 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Bein Sport SD5 
+
+http://smart-hdip.com:6204/zamir/zamir/1917 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Bein Sport SD6 
+
+http://smart-hdip.com:6204/zamir/zamir/1918 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Bein Sport SD7 
+
+http://smart-hdip.com:6204/zamir/zamir/1919 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Bein Sport SD8 
+
+http://smart-hdip.com:6204/zamir/zamir/1920 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Bein Sport SD9 
+
+http://smart-hdip.com:6204/zamir/zamir/1921 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Bein Sport SD10 
+
+http://smart-hdip.com:6204/zamir/zamir/1922 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Bein Sport SD11 
+
+http://smart-hdip.com:6204/zamir/zamir/1923 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Bein Alkass 1 HD 
+
+http://smart-hdip.com:6204/zamir/zamir/7045 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Bein Alkass 2 HD 
+
+http://smart-hdip.com:6204/zamir/zamir/7046 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Bein Alkass 3 HD 
+
+http://smart-hdip.com:6204/zamir/zamir/7047 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Bein Alkass 4 HD 
+
+http://smart-hdip.com:6204/zamir/zamir/7048 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Bein Alkass 5 HD 
+
+http://smart-hdip.com:6204/zamir/zamir/7049 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Bein Alkass 6 HD 
+
+http://smart-hdip.com:6204/zamir/zamir/7050 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Tr- Bein Sport 1 HD 
+
+http://smart-hdip.com:6204/zamir/zamir/11182 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Tr- Bein Sport 2 HD 
+
+http://smart-hdip.com:6204/zamir/zamir/2003 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Tr- Bein Sport 3 HD 
+
+http://smart-hdip.com:6204/zamir/zamir/11181 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Tr- Bein Sport 4 HD 
+
+http://smart-hdip.com:6204/zamir/zamir/11180 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Tr- beIN Sport MAX 1 HD 
+
+http://smart-hdip.com:6204/zamir/zamir/11179 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Tr- beIN Sport MAX 2 HD 
+
+http://smart-hdip.com:6204/zamir/zamir/11178 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Tr- beIN Sport 1 HD Backup 
+
+http://smart-hdip.com:6204/zamir/zamir/13034 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Tr- beIN Sport 2 HD Backup 
+
+http://smart-hdip.com:6204/zamir/zamir/13033 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Tr- Bein Sport 3 HD Backup 
+
+http://smart-hdip.com:6204/zamir/zamir/13030 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Tr- beIN Sport 4 HD Backup 
+
+http://smart-hdip.com:6204/zamir/zamir/14026 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Tr- beIN Sport MAX 1 HD Backup 
+
+http://smart-hdip.com:6204/zamir/zamir/14028 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Tr- beIN Sports MAX 2 HD Backup 
+
+http://smart-hdip.com:6204/zamir/zamir/14027 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Tr- TiviBu Sport 1 HD 
+
+http://smart-hdip.com:6204/zamir/zamir/6512 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Tr- TiviBu Sport 2 HD 
+
+http://smart-hdip.com:6204/zamir/zamir/6513 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Tr- TiviBu Sport 3 HD 
+
+http://smart-hdip.com:6204/zamir/zamir/6514 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",UK- Sky News HD 
+
+http://smart-hdip.com:6204/zamir/zamir/8533 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Uk- Sky Sports Main Event HD 
+
+http://smart-hdip.com:6204/zamir/zamir/8517 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Uk- Sky Sports Cricket HD 
+
+http://smart-hdip.com:6204/zamir/zamir/8516 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Uk- Sky Sports Action HD 
+
+http://smart-hdip.com:6204/zamir/zamir/8515 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Uk- Sky Sports Golf HD 
+
+http://smart-hdip.com:6204/zamir/zamir/8514 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Uk- Sky Sports Premier League HD 
+
+http://smart-hdip.com:6204/zamir/zamir/8513 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",UK- Sky Sports Arena HD 
+
+http://smart-hdip.com:6204/zamir/zamir/9059 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Uk- Sky Sport Football 
+
+http://smart-hdip.com:6204/zamir/zamir/8523 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Uk- Sky Sports MixHD 
+
+http://smart-hdip.com:6204/zamir/zamir/8511 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Uk- Sky BoxNation 
+
+http://smart-hdip.com:6204/zamir/zamir/8583 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Uk- Sky Sports F1 HD 
+
+http://smart-hdip.com:6204/zamir/zamir/8512 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Uk- Sky Sports F1 HD Backup S 
+
+http://smart-hdip.com:6204/zamir/zamir/11099 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Uk- Sky BT Sport 1 HD 
+
+http://smart-hdip.com:6204/zamir/zamir/8582 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Uk- Sky BT Sport 2 HD 
+
+http://smart-hdip.com:6204/zamir/zamir/8580 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Uk- Sky BT Sport 3 HD 
+
+http://smart-hdip.com:6204/zamir/zamir/10166 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Uk- Sky BT Sports Extra 1 
+
+http://smart-hdip.com:6204/zamir/zamir/8581 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Uk- Sky BT Sports Extra 2 
+
+http://smart-hdip.com:6204/zamir/zamir/8579 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Uk- Sky BT Sports Extra 3 
+
+http://smart-hdip.com:6204/zamir/zamir/8578 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Uk- Uk- Sky BT Sport ESPN HD 
+
+http://smart-hdip.com:6204/zamir/zamir/8577 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Uk- Sky Eurosport 1 HD 
+
+http://smart-hdip.com:6204/zamir/zamir/8560 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Uk- Sky Eurosport 2 HD 
+
+http://smart-hdip.com:6204/zamir/zamir/8559 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Uk- Sky Eir Sport 1 
+
+http://smart-hdip.com:6204/zamir/zamir/11118 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Uk- Sky Eir Sport 2 
+
+http://smart-hdip.com:6204/zamir/zamir/11117 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Uk- Sky YourTV HD 
+
+http://smart-hdip.com:6204/zamir/zamir/11114 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Uk- Sky MUTV 
+
+http://smart-hdip.com:6204/zamir/zamir/8536 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Uk- Sky Chelsea TV HD 
+
+http://smart-hdip.com:6204/zamir/zamir/8572 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Uk- Sky Liverpool FC TV HD 
+
+http://smart-hdip.com:6204/zamir/zamir/8548 
+
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Fr- SFR SPORT 1 FHD 
+
+http://smart-hdip.com:6204/zamir/zamir/14046 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Fr- SFR SPORT 2 FHD 
+
+http://smart-hdip.com:6204/zamir/zamir/14045 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Fr- SFR SPORT 3 FHD 
+
+http://smart-hdip.com:6204/zamir/zamir/14044 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Fr- SFR SPORT 4 FHD 
+
+http://smart-hdip.com:6204/zamir/zamir/14043 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Fr- SFR SPORT 5 FHD 
+
+http://smart-hdip.com:6204/zamir/zamir/14042 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Fr- BEIN SPORT 1 HD 
+
+http://smart-hdip.com:6204/zamir/zamir/14041 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Fr- BEIN SPORT 2 HD 
+
+http://smart-hdip.com:6204/zamir/zamir/14040 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Fr- BEIN SPORT 3 HD 
+
+http://smart-hdip.com:6204/zamir/zamir/14039 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Fr- BEIN MAX 4 HD 
+
+http://smart-hdip.com:6204/zamir/zamir/14038 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Fr- BEIN MAX 5 HD 
+
+http://smart-hdip.com:6204/zamir/zamir/14037 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Fr- BEIN MAX 6 HD 
+
+http://smart-hdip.com:6204/zamir/zamir/14036 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Fr- BEIN MAX 7 HD 
+
+http://smart-hdip.com:6204/zamir/zamir/14035 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Fr- BEIN MAX 8 HD 
+
+http://smart-hdip.com:6204/zamir/zamir/14034 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Fr- BEIN MAX 9 HD 
+
+http://smart-hdip.com:6204/zamir/zamir/14033 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports TH",Fr- BEIN MAX 10 HD 
+
+http://smart-hdip.com:6204/zamir/zamir/14032 
+
+
+#EXTINF:-1 tvg-logo="" group-title="Футбол 1",Матч! Футбол 1 
+
+http://persik.by/stream/176/296165/33.m3u8 
+
+#EXTINF:-1 tvg-logo="" group-title="Футбол 1",Матч! Футбол 1 
+
+http://persik.by/stream/176/296165/346.m3u8 
+
+#EXTINF:-1 tvg-logo="" group-title="Футбол 1",Матч! Футбол 1 HD 
+
+http://persik.by/stream/8460/291680/10266.m3u8 
+
+#EXTINF:-1 tvg-logo="" group-title="Футбол 1",Матч! Футбол 2 
+
+http://persik.by/stream/8460/291680/10217.m3u8 
+
+#EXTINF:-1 tvg-logo="" group-title="Футбол 1",Матч! Футбол 2 HD 
+
+http://persik.by/stream/176/296165/10267.m3u8 
+
+#EXTINF:-1 tvg-logo="" group-title="Футбол 1",Матч! Футбол 3 
+
+http://persik.by/stream/176/296165/770.m3u8 
+
+#EXTINF:-1 tvg-logo="" group-title="Футбол 1",Матч! Футбол 3 
+
+http://persik.by/stream/8460/291680/10218.m3u8 
+
+#EXTINF:-1 tvg-logo="" group-title="Футбол 1",Матч! Футбол 3 HD 
+
+http://persik.by/stream/8460/291680/10268.m3u8 
+
+
+#EXTINF:-1 tvg-logo="" group-title="Футбол 2",Футбол RU 
+
+http://livebar.pw/lba/123/g1/rusfootball.m3u8 
+
+#EXTINF:-1 tvg-logo="" group-title="Футбол 2",футбол 1 UA 
+
+http://livebar.pw/lba/123/g1/ukrfoot1.m3u8 
+
+#EXTINF:-1 tvg-logo="" group-title="Футбол 2",футбол 2 UA 
+
+http://livebar.pw/lba/123/g2/football2ukraine.m3u8 
+
+#EXTINF:-1 tvg-logo="" group-title="Футбол 2",Матч! Футбол 1 
+
+http://livebar.pw/lba/123/g2/mfootball1.m3u8 
+
+#EXTINF:-1 tvg-logo="" group-title="Футбол 2",Матч! Футбол 2 
+
+http://livebar.pw/lba/123/g5/rumatchf2.m3u8 
+
+#EXTINF:-1 tvg-logo="" group-title="Футбол 2",Матч! Футбол 3 
+
+http://livebar.pw/lba/123/g4/matfoot3.m3u8 
+
+#EXTINF:-1 tvg-logo="" group-title="Футбол 2",Матч! Футбол 1 HD 
+
+http://195.144.21.159/match_futbol1_hd/index.m3u8?token=sportmir 
+
+#EXTINF:-1 tvg-logo="" group-title="Футбол 2",Матч! Футбол 2 HD 
+
+http://195.144.21.159/match_futbol2_hd/index.m3u8?token=sportmir 
+
+#EXTINF:-1 tvg-logo="" group-title="Футбол 2",Матч! Футбол 3 HD 
+
+http://195.144.21.159/match_futbol3_hd/index.m3u8?token=sportmir 
+
+
+#EXTINF:-1 tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2015-03-26/9148034-logo-vtv1hd-a.png" group-title="VietTV",VTV1 HD 
+
+https://hjyjrvmlsk.vcdn.com.vn/hls/elgfjdh/index.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2016-08-16/5273187-6131906-logo-vt.png" group-title="VietTV",VTV2 HD 
+
+https://hjyjrvmlsk.vcdn.com.vn/hls/m0hlc1s/index.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2015-03-26/8026305-logo-vtv3hd-a.png" group-title="VietTV",VTV3 HD 
+
+https://hjyjrvmlsk.vcdn.com.vn/hls/idmwifi/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://obj-cdn-static.vtvgiaitri.vn/channel_logo/W_V4.png" group-title="VietTV",VTV4 HD 
+
+https://hjyjrvmlsk.vcdn.com.vn/hls/hktebdo/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://obj-cdn-static.vtvgiaitri.vn/channel_logo/W_V5.png" group-title="VietTV",VTV5 HD 
+
+https://hjyjrvmlsk.vcdn.com.vn/hls/ira1wlr/index.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2016-08-17/4483-vtv6-hd.png" group-title="VietTV",VTV6 HD 
+
+https://hjyjrvmlsk.vcdn.com.vn/hls/fjg6388/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V7_10HKiVA.png" group-title="VietTV",VTV7 HD 
+
+https://hjyjrvmlsk.vcdn.com.vn/hls/nwalmjv/index.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2017-06-29/457126-vtv8.jpg" group-title="VietTV",VTV8 HD 
+
+https://hjyjrvmlsk.vcdn.com.vn/hls/wgabpze/index.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2016-08-16/5637467-vtv9-hd-png.png" group-title="VietTV",VTV9 HD 
+
+https://hjyjrvmlsk.vcdn.com.vn/hls/ig9jpqw/index.m3u8 
+
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/781776-ANTV-HD.png" group-title="VietTV",AN NINH TV HD 
+
+http://antvlive.ab5c6921.cdnviet.com/antvmobile/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2015-08-26/8397951-logo-nhan-dan.png" group-title="VietTV",NHAN DAN 
+
+https://5952e4052a2e8.streamlock.net/live/_definst_/smil:thienviet.smil/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2015-03-26/9284593-logo-quochoivn.png" group-title="VietTV",QUOC HOI 
+
+http://live.cdn.mobifonetv.vn/motv3/qhvn_hls.smil/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2015-03-26/1821327-logo-truyenhinh.png" group-title="VietTV",QUOC PHONG VIET NAM 
+
+http://125.212.132.219:1935/standard/smil:standard.smil/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.vtvcab.vn/content/upload/1/5/anh-2/27-12/vtvcab-1555sua.png" group-title="VietTV",Giải Trí TV 
+
+https://live.vieplay.vn/live/gttv-channel/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.vtvcab.vn/content/upload/1/9/image/-nh-logo---i-t-c/echanneldoitac080816.png" group-title="VietTV",E CHANNEL 
+
+http://sv4.vungtau.ml/live/vchannel6_low.m3u8 
+
+#EXTINF:-1 tvg-logo="http://vgsshop.vn/Data/Sites/1/media/gioi-thieu/logo.png" group-title="VietTV",VTVcab11 
+
+https://5b0446c43ca13.streamlock.net/dn/htvmuasam.stream/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.vtvcab.vn/content/upload/1/home/partnercarousel/20140614/vtvcab-12.png" group-title="VietTV", STYLE TV 
+
+http://sv4.vungtau.ml/live/vchannel10_low.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HQ7sB2D.png" group-title="VietTV",Hà Nội 1 HD 
+
+http://hanoitvlive.8ef55e0c.cdnviet.com/hanoi1.smil/chunklist_b3500000.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sRi6G2v.png" group-title="VietTV", Hà Nội 2 HD 
+
+http://hanoitvlive.8ef55e0c.cdnviet.com/hanoi2.smil/chunklist_b3500000.m3u8 
+
+#EXTINF:-1 tvg=logo="http://www.vtvcab.vn/content/upload/1/5/anh-2/27-12/logocmctelecom.png" group-title="VietTV",ON Phim 
+
+http://sv4.vungtau.ml/live/vchannel4_low.m3u8 
+
+#EXTINF:-1 tvg=logo="http://www.vtvcab.vn/content/upload/1/5/anh-2/27-12/logocmctelecom.png" group-title="VietTV",ON Biz 
+
+http://sv4.vungtau.ml/live/vchannel5_low.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2015-03-26/1586931-logo-htv1a.png" group-title="VietTV",HTV1 
+
+http://live.cdn.mobifonetv.vn/motv/myhtv1_hls.smil/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2015-04-02/8763616-135119-logo-htv.png" group-title="VietTV",HTV2 
+
+https://live.vieplay.vn/live/htv2-channel/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2015-03-26/7068413-logo-htv3a.png" group-title="VietTV",HTV3 
+
+http://live.cdn.mobifonetv.vn/motv/myhtv3_hls.smil/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/460x260/poster/2018/08/14/359584-htv-key-web.png" group-title="VietTV",HTV Key 
+
+http://live.cdn.mobifonetv.vn/motv/myhtv4_hls.smil/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2015-03-26/9900806-logo-htv7hd-a.png" group-title="VietTV",HTV7 
+
+http://live.cdn.mobifonetv.vn/motv/myhtv7_hls.smil/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2015-03-26/6589775-logo-htv9hd-a.png" group-title="VietTV",HTV9 
+
+http://live.cdn.mobifonetv.vn/motv/myhtv9_hls.smil/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.htvc.vn/uploads/channel/2015/02/13/1028005-logo-htvthethao.png" group-title="VietTV",HTV THE THAO 
+
+http://live.cdn.mobifonetv.vn/motv/myhtvcthethao_hls.smil/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2017-04-10/2028200-ca-nhac-01.png" group-title="VietTV",HTVC CA NHAC 
+
+http://live.cdn.mobifonetv.vn/motv/myhtvccanhac_hls.smil/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2016-08-31/2977024-8502386-logodlc.png" group-title="VietTV",HTVC DU LICH CUOC SONG 
+
+http://live.cdn.mobifonetv.vn/motv/myhtvcdulich_hls.smil/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2018-06-06/3590945-logo-htvc-gia-d.png" group-title="VietTV",HTVC GIA DINH 
+
+http://live.cdn.mobifonetv.vn/motv/myhtvcgiadinh_hls.smil/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2017-04-10/563560-logo-kenh-phim-.png" group-title="VietTV",HTVC PHIM 
+
+http://live.cdn.mobifonetv.vn/motv/myhtvcphim_hls.smil/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2016-10-20/5657089-logo-phunu-fina.png" group-title="VietTV",HTVC PHU NU 
+
+http://live.cdn.mobifonetv.vn/motv/myhtvcphunu_hls.smil/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2016-08-16/2581034-365940-logoc-th.png" group-title="VietTV",HTVC Thuần Việt 
+
+http://live.cdn.mobifonetv.vn/motv/myhtvcthuanviet_hls.smil/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://gg.gg/vtc-1-hd" group-title="VietTV",VTC1 HD 
+
+https://cdn1.vtcnow.vn/live/eds/VTC1_1/hlsv3/VTC1_1-audio_20000=212400-video=1799600.m3u8 
+
+#EXTINF:-1 tvg-logo="https://gg.gg/vtc-2" group-title="VietTV",VTC2 
+
+https://cdn1.vtcnow.vn/live/eds/VTC2_2/hlsv3/VTC2_2-audio_20000=212400-video=1275600.m3u8 
+
+#EXTINF:-1 tvg-logo="https://gg.gg/vtc-3-sd" group-title="VietTV",VTC3 
+
+http://live.cdn.mobifonetv.vn/motv2/myvtc3_hls.smil/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_yeah1-family-vtc4_146312575079.png?w=345&h=210&mode=scale" group-title="VietTV",VTC4 
+
+https://cdn1.vtcnow.vn/live/eds/VTC4_4/hlsv3/VTC4_4-audio_20000=212400-video=1275600.m3u8 
+
+#EXTINF:-1 tvg-logo="https://gg.gg/vtc-5-sc-tv" group-title="VietTV",VTC5 
+
+http://vtsstr4.sctv.vn:1935/testlive1/vtc5_SD.smil/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://gg.gg/vtc-5-sc-tv" group-title="VietTV",VTC5 HD 
+
+https://cdn1.vtcnow.vn/live/eds/VTC5_5/hlsv3/VTC5_5-audio_20000=212400-video=1275600.m3u8 
+
+#EXTINF:-1 tvg-logo="https://gg.gg/vtc-6-bac-bo" group-title="VietTV",VTC6 
+
+https://cdn1.vtcnow.vn/live/eds/VTC6_6/hlsv3/VTC6_6-audio_20000=212400-video=1275600.m3u8 
+
+#EXTINF:-1 tvg-logo="http://mobion.vn/Files/Image/admin/2017/12/08/temp_621947320104103.jpg" group-title="VietTV",VTC7 
+
+https://cdn1.vtcnow.vn/live/eds/VTC7_7/hlsv3/VTC7_7-audio_20000=212400-video=800000.m3u8 
+
+#EXTINF:-1 tvg-logo="https://gg.gg/vtc-8-nam-bo" group-title="VietTV",VTC8 
+
+https://cdn1.vtcnow.vn/live/eds/VTC8_8/hlsv3/VTC8_8-audio_20000=212400-video=1275600.m3u8 
+
+#EXTINF:-1 tvg-logo="https://gg.gg/vtc-9-hd" group-title="VietTV",VTC9 HD 
+
+https://cdn1.vtcnow.vn/live/eds/VTC9_9/hlsv3/VTC9_9-audio_20000=212400-video=572800.m3u8 
+
+#EXTINF:-1 tvg-logo="https://gg.gg/vtc-10-net-viet" group-title="VietTV",VTC10 
+
+https://cdn1.vtcnow.vn/live/eds/VTC10_10/hlsv3/VTC10_10-audio_20000=212400-video=1275600.m3u8 
+
+#EXTINF:-1 tvg-logo="https://gg.gg/vtc-11-kids-tv" group-title="VietTV",VTC11 
+
+https://cdn1.vtcnow.vn/live/eds/VTC11_11/hlsv3/VTC11_11-audio_20000=212400-video=1275600.m3u8 
+
+#EXTINF:-1 tvg-logo="https://gg.gg/vtc-13-hd" group-title="VietTV",VTC13 HD 
+
+https://cdn1.vtcnow.vn/live/eds/VTC13_13/hlsv3/VTC13_13-audio_20000=212400-video=867200.m3u8 
+
+#EXTINF:-1 tvg-logo="https://gg.gg/vtc-14-hd" group-title="VietTV",VTC14 HD 
+
+https://cdn1.vtcnow.vn/live/eds/VTC14_14/hlsv3/VTC14_14-audio_20000=212400-video=1582000.m3u8 
+
+#EXTINF:-1 tvg-logo="https://gg.gg/vtc-16-3n" group-title="VietTV",VTC16 
+
+https://cdn1.vtcnow.vn/live/eds/VTC16_16/hlsv3/VTC16_16-audio_20000=212400-video=1275600.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zWkZ5In.png" group-title="VietTV",VTC Play Ca Nhac 
+
+http://118.107.68.10:1935/live/_definst_/VTC_CANHAC2017/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2015-04-01/7849376-logo-anninhtg.png" group-title="VietTV",AN NINH THE GIOI HD 
+
+http://live.cdn.mobifonetv.vn/motv/antg_hls.smil/chunklist_b1200000.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2016-09-23/1901392-470154-logo-phi.png" group-title="VietTV",PHIM HAY HD 
+
+http://live.cdn.mobifonetv.vn/motv3/phimhay_hls.smil/chunklist_b1200000.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2016-09-23/806388-68184logo-bt.png" group-title="VietTV",NCM 
+
+http://live.cdn.mobifonetv.vn/motv/ncm_hls.smil/chunklist_b1200000.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2016-09-23/8108709-2941273-logo-bt.png" group-title="VietTV",VIETTEEN HD 
+
+http://live.cdn.mobifonetv.vn/motv/vietteen_hls.smil/chunklist_b1200000.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2016-09-23/8423842-4358953-logo-bt.png" group-title="VietTV",SAM HD 
+
+http://live.cdn.mobifonetv.vn/motv/sam_hls.smil/chunklist_b1200000.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.sctv.com.vn/Media/KenhTrai/SCTV1HD.png" group-title="VietTV",SCTV1 HD 
+
+http://sv4.vungtau.ml/live/vchannel7_low.m3u8 
+
+#EXTINF:-1 tvg-logo="https://cdn.itviec.com/system/production/employers/logos/1542/scj-tv-shopping-logo-170-151.jpg" group-title="VietTV",SCTV5 
+
+http://vtsstr4.sctv.vn:1935/testlive/SCTV5_SD.smil/chunklist_w411708802_b2292000.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.sctv.com.vn/Media/KenhPhai/SCTV7.png" group-title="VietTV",SCTV7 
+
+http://sv4.vungtau.ml/live/vchannel9_low.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.sctv.com.vn/Media/KenhPhai/SCTV14.png" group-title="VietTV",SCTV14 HD 
+
+http://sv4.vungtau.ml/live/vchannel8_low.m3u8 
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-lJcqmhDCJjc/VZspLx0vq9I/AAAAAAAAtUQ/AlRTVhKUKZ8/s640/kenh-itv.jpg" group-title="VietTV",SCTV20 
+
+http://kenhitv.vn/ITV_Stream/itv_web_500k.stream.mp4/playlist.m3u8 
+
+#EXTINF:-1 tvg=logo="https://i.imgur.com/4wx8luS.png" group-title="VietTV",THP HD 
+
+http://118.107.68.10:1935/live/smil:Haiphong1.smil/playlist.m3u8 
+
+#EXTINF:-1 tvg=logo="https://i.imgur.com/ui0sjEz.png" group-title="VietTV",THP+ 
+
+http://118.107.68.10:1935/live/smil:Haiphongplus.smil/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CQgNhI0.png" group-title="VietTV",Phú Thọ (PTV HD) 
+
+http://118.107.68.10:1935/live/smil:PhuthoBU.smil/chunklist_w441364030_b1264000_slVIE.m3u8 
+
+#EXTINF:-1 tvg-logo="http://truyenhinhso.vn/Images/Thumbs/71_25_1181558499.png" group-title="VietTV",Bắc Ninh (BTV HD) 
+
+http://118.107.68.10:1935/live/_definst_/BTVHD_12806b51bdf7ac364126%20/chunklist.m3u8 
+
+#EXTINF:-1 tvg=logo="https://gg.gg/thainguyen1" group-title="VietTV",Thái Nguyên (TN1 HD) 
+
+http://118.107.68.10:1935/live/TN_720x576_01052017/playlist.m3u8 
+
+#EXTINF:-1 tvg=logo="https://gg.gg/thaibinh" group-title="VietTV",Thái Bình (TBTV HD) 
+
+http://118.70.118.191:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8 
+
+#EXTINF:-1 tvg=logo="http://danangtv.vn/images/drt1.png" group-title="VietTV",DaNang TV1 HD 
+
+http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8 
+
+#EXTINF:-1 tvg=logo="http://danangtv.vn/images/drt2.png" group-title="VietTV",DaNang TV2 
+
+http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8 
+
+#EXTINF:-1 tvg-logo="http://tv.vnn.vn/Images/tv/travinh%20.png" group-title="VietTV",Tra Vinh SD 
+
+http://123.30.191.202/hls/travinh.m3u8 
+
+#EXTINF:-1 tvg-logo="http://tv.vnn.vn/Images/tv/tiengiang%20.png" group-title="VietTV",Tien Giang 
+
+http://thtg.vn:8001/thtg.m3u8 
+
+#EXTINF:-1 tvg-logo="http://haugiangtivi.vn/images/banner/logo-footer.png" group-title="VietTV",Hau Giang (HGTV) 
+
+http://haugiangtv.e96bbe18.sabai.vn/hgtv/chunklist.m3u8 
+
+#EXTINF:-1 tvg-logo="http://img.btv.org.vn:81/upload/vod/10112016/1478747379_kenhbtv1gif.gif" group-title="VietTV",BTV1-TH Binh Duong 
+
+http://live.cdn.mobifonetv.vn/motv/mybtv1_hls.smil/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="http://img.btv.org.vn:81/upload/vod/10112016/1478747628_kenhbtv2gif.gif" group-title="VietTV",BTV2-TH Binh Duong 
+
+http://live.cdn.mobifonetv.vn/motv/mybtv2_hls.smil/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="http://bvad.info/wp-content/uploads/2017/03/ca-mau.jpg" group-title="VietTV",Ca Mau (CTV) 
+
+http://tv.ctvcamau.vn/live/tv/tv.m3u8 
+
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/728x409/banner/2016/10/13/296309-lamdong.png" group-title="VietTV",Lam Dong (LTV) 
+
+http://118.107.68.10:1935/live/smil:Lamdongtv.smil/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="http://bptv.vn/wp-content/themes/VN-News/img/tv-online/thbp1.png" group-title="VietTV",BPTV1-TH Binh Phuoc 
+
+http://118.69.197.145/hls/bptv1.m3u8 
+
+#EXTINF:-1 tvg-logo="http://bptv.vn/wp-content/themes/VN-News/img/tv-online/thbp2.png" group-title="VietTV",BPTV2-HomeTV - TH Binh Phuoc 
+
+http://118.69.197.145/hls/bptv2.m3u8 
+
+#EXTINF:-1 tvg-logo="http://canthotv.vn/wp-content/uploads/2018/02/logo-headerTHTPCT.png" group-title="VietTV",Can Tho 
+
+http://tv.canthotv.vn/live/tv/tv.m3u8 
+
+#EXTINF:-1 tvg-logo="http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2017/12/29/OQYQMR5GNS.png" group-title="VietTV",Dong Nai (DN1) 
+
+http://118.107.68.10:1935/live/smil:Dongnai1.smil/chunklist_w366232911_b1264000_slVIE.m3u8 
+
+#EXTINF:-1 tvg-logo="http://cphim.net/wp-content/uploads/2017/09/dn2.jpg" group-title="VietTV",Dong Nai (DN2) 
+
+http://118.107.68.10:1935/live/smil:DNAI2WEB.smil/chunklist_b1264000_slVIE.m3u8 
+
+#EXTINF:-1 tvg-logo="http://m.kgtv.vn/wp-content/themes/comfy-plus/styles/default/img/kg.png" group-title="VietTV",Kien Giang (KG) 
+
+http://tv.kgtv.vn/live/kgtv/kgtv.m3u8 
+
+#EXTINF:-1 tvg-logo="http://m.kgtv.vn/wp-content/themes/comfy-plus/styles/default/img/kg1.png" group-title="VietTV",Kien Giang (KG1) 
+
+http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8 
+
+#EXTINF:-1 tvg-logo="http://bttv.org.vn/Design/cmd_tv.png" group-title="VietTV",Binh Thuan (BTV) 
+
+http://222.255.123.4:1939/thbttv/bttv/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="http://la34.com.vn/wp-content/themes/carrington-mobile/img/logo.png" group-title="VietTV",Long An (LA34) 
+
+http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.brt.vn/common/v1/images/logo-footer.png" group-title="VietTV",Ba Ria & Vung Tau (BRT HD) 
+
+http://113.163.216.23:1935/live/THonline/chunklist_w1280362622.m3u8 
+
+#EXTINF:-1 tvg-logo="http://atv.org.vn/lib/images/atv-tv.png" group-title="VietTV",ATV-TH An Giang 
+
+http://221.133.9.35:1935/live/1.stream_240p/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="http://ttv11.vn/wp-content/themes/ttv11/assets/img/logo.png" group-title="VietTV",Tay Ninh(TTV11) 
+
+http://202.43.109.142:1935/ttv11/tntv/playlist.m3u8 
+
+
