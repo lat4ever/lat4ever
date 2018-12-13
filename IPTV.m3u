@@ -1,8 +1,8 @@
 #EXTM3U Lat4ever
 
-#EXTINF:-1 tvg-logo="" group-title="beIN Sports 1",beIN Sports 1 HD (AR)
+#EXTINF:-1 tvg-logo="" group-title="beIN Sports",beIN Sports 1 HD (AR)
 http://www.freeiptvdaily.net:8000/live/Lqa65johNV/freeiptvdaily.tv/2.ts
-#EXTINF:-1 tvg-logo="" group-title="beIN Sports 1",beIN Sports 2 HD (AR)
+#EXTINF:-1 tvg-logo="" group-title="beIN Sports",beIN Sports 2 HD (AR)
 http://www.freeiptvdaily.net:8000/live/Lqa65johNV/freeiptvdaily.tv/3.ts
 #EXTINF:-1 tvg-logo="" group-title="beIN Sports",beIN Sports 3 HD (AR)
 http://www.freeiptvdaily.net:8000/live/Lqa65johNV/freeiptvdaily.tv/4.ts
@@ -241,41 +241,6 @@ http://smart-hdip.com:6204/zamir/zamir/14033
 #EXTINF:-1 tvg-logo="" group-title="Sports TH",Fr- BEIN MAX 10 HD
 http://smart-hdip.com:6204/zamir/zamir/14032
 
-#EXTINF:-1 tvg-logo="" group-title="Ð¤ÑÑÐ±Ð¾Ð» 1",ÐÐ°ÑÑ! Ð¤ÑÑÐ±Ð¾Ð» 1
-http://persik.by/stream/176/296165/33.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ð¤ÑÑÐ±Ð¾Ð» 1",ÐÐ°ÑÑ! Ð¤ÑÑÐ±Ð¾Ð» 1
-http://persik.by/stream/176/296165/346.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ð¤ÑÑÐ±Ð¾Ð» 1",ÐÐ°ÑÑ! Ð¤ÑÑÐ±Ð¾Ð» 1 HD
-http://persik.by/stream/8460/291680/10266.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ð¤ÑÑÐ±Ð¾Ð» 1",ÐÐ°ÑÑ! Ð¤ÑÑÐ±Ð¾Ð» 2
-http://persik.by/stream/8460/291680/10217.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ð¤ÑÑÐ±Ð¾Ð» 1",ÐÐ°ÑÑ! Ð¤ÑÑÐ±Ð¾Ð» 2 HD
-http://persik.by/stream/176/296165/10267.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ð¤ÑÑÐ±Ð¾Ð» 1",ÐÐ°ÑÑ! Ð¤ÑÑÐ±Ð¾Ð» 3
-http://persik.by/stream/176/296165/770.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ð¤ÑÑÐ±Ð¾Ð» 1",ÐÐ°ÑÑ! Ð¤ÑÑÐ±Ð¾Ð» 3
-http://persik.by/stream/8460/291680/10218.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ð¤ÑÑÐ±Ð¾Ð» 1",ÐÐ°ÑÑ! Ð¤ÑÑÐ±Ð¾Ð» 3 HD
-http://persik.by/stream/8460/291680/10268.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Ð¤ÑÑÐ±Ð¾Ð» 2",Ð¤ÑÑÐ±Ð¾Ð» RU
-http://livebar.pw/lba/123/g1/rusfootball.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ð¤ÑÑÐ±Ð¾Ð» 2",ÑÑÑÐ±Ð¾Ð» 1 UA
-http://livebar.pw/lba/123/g1/ukrfoot1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ð¤ÑÑÐ±Ð¾Ð» 2",ÑÑÑÐ±Ð¾Ð» 2 UA
-http://livebar.pw/lba/123/g2/football2ukraine.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ð¤ÑÑÐ±Ð¾Ð» 2",ÐÐ°ÑÑ! Ð¤ÑÑÐ±Ð¾Ð» 1
-http://livebar.pw/lba/123/g2/mfootball1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ð¤ÑÑÐ±Ð¾Ð» 2",ÐÐ°ÑÑ! Ð¤ÑÑÐ±Ð¾Ð» 2
-http://livebar.pw/lba/123/g5/rumatchf2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ð¤ÑÑÐ±Ð¾Ð» 2",ÐÐ°ÑÑ! Ð¤ÑÑÐ±Ð¾Ð» 3
-http://livebar.pw/lba/123/g4/matfoot3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ð¤ÑÑÐ±Ð¾Ð» 2",ÐÐ°ÑÑ! Ð¤ÑÑÐ±Ð¾Ð» 1 HD
-http://195.144.21.159/match_futbol1_hd/index.m3u8?token=sportmir
-#EXTINF:-1 tvg-logo="" group-title="Ð¤ÑÑÐ±Ð¾Ð» 2",ÐÐ°ÑÑ! Ð¤ÑÑÐ±Ð¾Ð» 2 HD
-http://195.144.21.159/match_futbol2_hd/index.m3u8?token=sportmir
-#EXTINF:-1 tvg-logo="" group-title="Ð¤ÑÑÐ±Ð¾Ð» 2",ÐÐ°ÑÑ! Ð¤ÑÑÐ±Ð¾Ð» 3 HD
-http://195.144.21.159/match_futbol3_hd/index.m3u8?token=sportmir
 
 #EXTINF:-1 tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2015-03-26/9148034-logo-vtv1hd-a.png" group-title="VietTV",VTV1 HD
 https://hjyjrvmlsk.vcdn.com.vn/hls/elgfjdh/index.m3u8
