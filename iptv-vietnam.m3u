@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="VIETNAM" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv1-hd_150173500659.jpg",VTV1 HD
+#EXTINF:-1 group-title="Kênh Tổng Hợp" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv1-hd_150173500659.jpg",VTV1 HD
 https://hjyjrvmlsk.vcdn.com.vn/hls/elgfjdh/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2016-08-16/5273187-6131906-logo-vt.png",VTV2 HD
 https://hjyjrvmlsk.vcdn.com.vn/hls/m0hlc1s/index.m3u8
@@ -143,32 +143,25 @@ http://sv4.vungtau.ml/live/vchannel5_low.m3u8
 
 #EXTINF:-1 group-title="VTC" tvg-logo="https://gg.gg/vtc-1-hd",VTC1 HD
 https://cdn1.vtcnow.vn/live/eds/VTC1_1/hlsv3/VTC1_1-audio_20000=212400-video=1799600.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://gg.gg/vtc-2",VTC2
+#EXTINF:-1 group-title="VTC" tvg-logo="https://gg.gg/vtc-2",VTC2 HD
 https://cdn1.vtcnow.vn/live/eds/VTC2_2/hlsv3/VTC2_2-audio_20000=212400-video=1275600.m3u8
-#EXTINF:-1, group-title="VTC" tvg-logo="https://gg.gg/vtc-3-sd",VTC3
+#EXTINF:-1, group-title="VTC" tvg-logo="https://gg.gg/vtc-3-sd",VTC3 HD
 http://live.cdn.mobifonetv.vn/motv2/myvtc3_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_yeah1-family-vtc4_146312575079.png?w=345&h=210&mode=scale",VTC4-Yeah1! Family
 https://cdn1.vtcnow.vn/live/eds/VTC4_4/hlsv3/VTC4_4-audio_20000=212400-video=1275600.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://gg.gg/vtc-5-sc-tv",VTC5
+#EXTINF:-1 group-title="VTC" tvg-logo="https://gg.gg/vtc-5-sc-tv",VTC5 SD
 http://vtsstr4.sctv.vn:1935/testlive1/vtc5_SD.smil/playlist.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="https://gg.gg/vtc-5-sc-tv",VTC5 HD
 https://cdn1.vtcnow.vn/live/eds/VTC5_5/hlsv3/VTC5_5-audio_20000=212400-video=1275600.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://gg.gg/vtc-6-bac-bo",VTC6
+#EXTINF:-1 group-title="VTC" tvg-logo="https://gg.gg/vtc-6-bac-bo",VTC6 HD
 https://cdn1.vtcnow.vn/live/eds/VTC6_6/hlsv3/VTC6_6-audio_20000=212400-video=1275600.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="http://mobion.vn/Files/Image/admin/2017/12/08/temp_621947320104103.jpg",VTC7 HD-Today TV HD
 https://cdn1.vtcnow.vn/live/eds/VTC7_7/hlsv3/VTC7_7-audio_20000=212400-video=800000.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://gg.gg/vtc-8-nam-bo",VTC8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://gg.gg/vtc-8-nam-bo",VTC8 HD
 https://cdn1.vtcnow.vn/live/eds/VTC8_8/hlsv3/VTC8_8-audio_20000=212400-video=1275600.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="https://gg.gg/vtc-9-hd",VTC9 HD
 https://cdn1.vtcnow.vn/live/eds/VTC9_9/hlsv3/VTC9_9-audio_20000=212400-video=572800.m3u8
-#EXTINF:-1 group-title="VTC"tvg-logo="https://gg.gg/vtc-10-net-viet",VTC10-NetViet
+#EXTINF:-1 group-title="VTC"tvg-logo="https://gg.gg/vtc-10-net-viet",VTC10
 https://cdn1.vtcnow.vn/live/eds/VTC10_10/hlsv3/VTC10_10-audio_20000=212400-video=1275600.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="VTC"tvg-logo="https://gg.gg/vtc-11-kids-tv",VTC11-Kids TV
+#EXTINF:-1 group-title="VTC"tvg-logo="https://gg.gg/vtc-11-kids-tv",VTC11
 https://cdn1.vtcnow.vn/live/eds/VTC11_11/hlsv3/VTC11_11-audio_20000=212400-video=1275600.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="VTC"tvg-logo="http://topshoppingtv.vn/assets/images/logo.png",VTC12-Top Shoppng
-#EXTINF:-1 tvg-logo="https://gg.gg/vtc-13-hd" group-title=",VTC13 HD
-https://cdn1.vtcnow.vn/live/eds/VTC13_13/hlsv3/VTC13_13-audio_20000=212400-video=867200.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="VTC"tvg-logo="https://gg.gg/vtc-14-hd",VTC14 HD
-https://cdn1.vtcnow.vn/live/eds/VTC14_14/hlsv3/VTC14_14-audio_20000=212400-video=1582000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="VTC"tvg-logo="https://gg.gg/vtc-16-3n",VTC16
-https://cdn1.vtcnow.vn/live/eds/VTC16_16/hlsv3/VTC16_16-audio_20000=212400-video=1275600.m3u8
