@@ -60,6 +60,26 @@ http://live.cdn.mobifonetv.vn/motv/sam_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2016-09-23/9757083-5330707-logo-th.png",THDT2-MIENTAY
 http://live.cdn.mobifonetv.vn/motv2/mientay_hls.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="SCTV" tvg-logo="https://bit.ly/sctv-01" group-title="SCTV",SCTV1
+https://live.tivi12h.net/live/vchannel7_low.m3u8
+#EXTINF:-1 tvg-id="SCTV" tvg-logo="https://bit.ly/sctv-02" group-title="SCTV",SCTV2
+https://vsd4.mycdn.me/hls/483568978519.m3u8/sig/NHceTQfrw9w/expires/1544090063824/srcIp/207.148.77.55/clientType/0/srcAg/CHROME/483568978519_high/index.m3u8
+#EXTINF:-1 tvg-id="SCTV" tvg-logo="https://bit.ly/sctv-4" group-title="SCTV",SCTV4
+http://1.54.157.106:4022/udp/225.1.2.187:30120
+#EXTINF:-1 tvg-id="SCTV" tvg-logo="https://bit.ly/sctv-07" group-title="SCTV",SCTV7
+https://live.tivi12h.net/live/vchannel9_low.m3u8
+#EXTINF:-1 tvg-id="SCTV" tvg-logo="https://bit.ly/sctv-08" group-title="SCTV",SCTV8
+http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 tvg-id="SCTV" tvg-logo="https://bit.ly/sctv-09" group-title="SCTV",SCTV9 HD
+http://cdn3.vtcplay.vn:1935/VTC/smil:FOXHD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SCTV" tvg-logo="https://bit.ly/sctv-10" group-title="SCTV",SCTV10 HD
+http://vtsstr4.sctv.vn:1935/testlive1/sctv10_SD.smil/chunklist_b2292000.m3u8
+#EXTINF:-1 tvg-id="SCTV" tvg-logo="https://bit.ly/sctv-14" group-title="SCTV",SCTV14
+https://sg.tvmienphi.net/live/vchannel8_low.m3u8
+#EXTINF:-1 tvg-id="SCTV" tvg-logo="https://bit.ly/sctv-20" group-title="SCTV",SCTV20-iTV
+http://kenhitv.vn/ITV_Stream/itv_web_500k.stream.mp4/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/banner/2015/02/26/379565-MTV.png",MTV
 http://iptv-nl3-qscdn.hdflixtv.com/VN-MTV/index.m3u8?token=dbab5718a75c1f4e4148390d2d7d5af9-1541429364-5be056f30ebc0599b32144c5
 #EXTINF:-1 tvg-logo="http://static.thvli.vn/assets/thumbnail/2017/05/09/zu1iq1dw_THVL-1-HD-N.jpg",VINH LONG 1 HD 
@@ -95,21 +115,6 @@ http://sv4.vungtau.ml/live/vchannel10_low.m3u8
 #EXTINF:-1 tvg-logo="https://micros.onsports.vn/resize/?url=https%3A%2F%2Fcontrol.onsports.vn%2Fuploads/channel_logo/BDTV%20HD.png&width=1200&height=9999&watermark=0",VTVcab16 - Bong Da TV HD
 http://hplus.tranvinh.tk/?id=vtvcab16&type=playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://www.sctv.com.vn/Media/KenhTrai/SCTV1HD.png" group-title="Kênh SCTV",SCTV1 HD
-http://sv4.vungtau.ml/live/vchannel7_low.m3u8
-#EXTINF:-1 group-title="Kênh SCTV" tvg-logo="http://www.htvc.vn/uploads/editor/images/Logo%20Kenh/logo_Let'sViet_422x278.png",SCTV4-LET'S VIET
-http://42.114.130.237:8889/udp/225.1.2.187:30120
-#EXTINF:-1 group-title="Kênh SCTV" tvg-logo="https://cdn.itviec.com/system/production/employers/logos/1542/scj-tv-shopping-logo-170-151.jpg",SCTV5 SCJ TV SHOPPNG 
-http://vtsstr4.sctv.vn:1935/testlive/SCTV5_SD.smil/chunklist_w411708802_b2292000.m3u8
-#EXTINF:-1 tvg-logo="http://www.sctv.com.vn/Media/KenhPhai/SCTV7.png" group-title="Kênh SCTV",SCTV7-SHOW TV
-http://sv4.vungtau.ml/live/vchannel9_low.m3u8
-#EXTINF:-1 group-title="Kênh SCTV" tvg-logo="http://saonamshop.com/assets/images/logo.png",SCTV10-SAO NAM SHOPPNG
-rtmp://vtsstr4.sctv.vn:1935/testlive1/sctv10_SD_3
-#EXTINF:-1 tvg-logo="http://www.sctv.com.vn/Media/KenhPhai/SCTV14.png" group-title="Kênh SCTV",SCTV14 HD
-http://sv4.vungtau.ml/live/vchannel8_low.m3u8
-#EXTINF:-1 group-title="Kênh SCTV" tvg-logo="http://2.bp.blogspot.com/-lJcqmhDCJjc/VZspLx0vq9I/AAAAAAAAtUQ/AlRTVhKUKZ8/s640/kenh-itv.jpg",SCTV20-iTV
-http://kenhitv.vn/ITV_Stream/itv_web_500k.stream.mp4/playlist.m3u8
 
 #EXTINF:-1 group-title="Kênh Tổng Hợp" tvg-logo="https://i.imgur.com/DRMrQGo.png",Keeng Movies
 http://vip.media5.keeng.vn/5dtv/5dtv.m3u8
