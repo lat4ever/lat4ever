@@ -1,0 +1,12 @@
+EXTM3U List Kênh K+ HD & Quốc Tế 2019
+
+#EXTINF:-1 group-title="K+ HD" tvg-logo="https://www.upsieutoc.com/images/2019/01/13/K1_HD.png",K+1 HD
+http://113.23.7.24:8889/udp/225.1.1.78:30120
+#EXTINF:0 group-title="K+ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/K%2BNS.png",K+ NS HD
+http://113.23.7.24:8889/udp/225.1.1.6:30120
+#EXTINF:0 group-title="K+ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/K%2BPM_HD.png",K+ PM HD
+http://113.23.76.249:8889/udp/225.1.1.73:30120
+#EXTINF:0 group-title="K+ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/K%2BPC.png",K+ PC HD
+http://113.23.7.24:8889/udp/225.1.1.82:30120
+
+
