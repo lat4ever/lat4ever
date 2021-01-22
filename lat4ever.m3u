@@ -34,6 +34,109 @@ https://livecdn.fptplay.net/sda/caobang_2000.stream/chunklist.m3u8
 https://tv.canthotv.vn/live/tv/tv.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://mytv.com.vn/upload/channel/811.png", GIA LAI
 https://livecdn.fptplay.net/sda/gialai_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/vJDPR9h/ASTRO1-BEARTV.png",Astro SuperSport
+http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/2knS93C/ASTRO3-BEARTV.png", Astro SuperSport 3
+http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/TR0gwRh/SKYEPL-BEARTV.png", Sky Sports Premier League
+http://160.119.77.116:8081/iptv/uk-skysports-epl.stream/playlist.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png", Sky Sports F1
+http://160.119.77.116:8081/iptv/uk-skysports-f1.stream/playlist.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/Qj6tmDG/SKYFOOTBALL-BEARTV.png", Sky Sports Football
+http://160.119.77.116:8081/iptv/uk-skysports-football.stream/playlist.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/zfDLnfn.png", SkyNet Sports
+http://4digital.ddns.net:11223/ts/0
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/0tjXfkT/SETANTA1-BEARTV.png", SETANTA SPORTS 1
+http://92.43.140.200/s81/04.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/vVwVcHw/SETANTA2-BEARTV.png", SETANTA SPORTS 2
+http://92.43.140.200/s82/04.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://photo.sofun.tw/2013/11/STAR-SPORTS-LOGO.jpg", Star Sports
+rtmp://ivi.bupt.edu.cn:1935/livetv/starsports?checkedby
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/7NkGKmP.png",BT SPORT 1
+https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/O18RDU9.png",BT SPORT 2
+https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_München_logo_%282017%29.svg/1200px-FC_Bayern_München_logo_%282017%29.svg.png", FC Bayern TV
+http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8
+#EXTINF:-1 tvg-id="foxsportshd" group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1024px-Fox_Sports_Logo.svg.png", FOX SPORT 1 HD
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="foxsports2hd" group-title="KÊNH THỂ THAO" tvg-logo="http://img.hplus.com.vn/460x260/poster/2019/08/16/622510-foxsport2.png", FOX SPORT 2 HD
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="fox_sports3" group-title="KÊNH THỂ THAO" tvg-logo="http://img.hplus.com.vn/460x260/poster/2019/07/16/851322-foxsport_3.png", FOX SPORT 3 HD
+https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/UZ2zNAi.png", ELEVEN SPORTS 1
+http://goldenrocket.club:8080/platinum/xHq8vck9Nd/103419
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/49ZWPbm.png", ELEVEN SPORTS 2
+http://goldenrocket.club:8080/platinum/xHq8vck9Nd/103420
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/JmJve1Z.png", ELEVEN SPORTS 3
+http://goldenrocket.club:8080/platinum/xHq8vck9Nd/103418
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/pB0pA4f.png", RMC SPORT 1
+http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120065
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3a/Logo_RMC_Sport_2_2018.svg/1020px-Logo_RMC_Sport_2_2018.svg.png", RMC SPORT 2
+http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120066
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/71/Logo_RMC_Sport_3_2018.svg/1020px-Logo_RMC_Sport_3_2018.svg.png", RMC SPORT 3
+http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120067
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/66/Logo_RMC_Sport_4_2018.svg/1050px-Logo_RMC_Sport_4_2018.svg.png", RMC SPORT 4
+http://goldenrocket.club:8080/platinum/xHq8vck9Nd/120068
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/zsFjzDa.png", SPORT.TV +
+http://goldenrocket.club:8080/platinum/xHq8vck9Nd/103392
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png", SPORT.TV 1 | 1080P
+http://goldenrocket.club:8080/platinum/xHq8vck9Nd/103394 
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png", SPORT.TV 1 | 720P (Chọn HW)
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyrpq1470407606.png" group-title="KÊNH THỂ THAO", SPORT.TV 2 | 1080P
+http://goldenrocket.club:8080/platinum/xHq8vck9Nd/103397
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyrpq1470407606.png" group-title="KÊNH THỂ THAO", SPORT.TV 2 | 720P (Chọn HW)
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.thesportsdb.com/images/media/logo/xysrvw1470407766.png", SPORT.TV 3 | 1080P
+http://goldenrocket.club:8080/platinum/xHq8vck9Nd/103400 
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.thesportsdb.com/images/media/logo/xysrvw1470407766.png", SPORT.TV 3 | 720P (Chọn HW)
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.thesportsdb.com/images/media/logo/qypxry1470408244.png", SPORT.TV 4 | 1080P
+http://goldenrocket.club:8080/platinum/xHq8vck9Nd/103403
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.thesportsdb.com/images/media/logo/qypxry1470408244.png", SPORT.TV 4 | 720P (Chọn HW)
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.thesportsdb.com/images/media/logo/vvvqxp1470408443.png", SPORT.TV 5 | 1080P
+http://goldenrocket.club:8080/platinum/xHq8vck9Nd/103405
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.thesportsdb.com/images/media/logo/vvvqxp1470408443.png", SPORT.TV 5 | 720P (Chọn HW)
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/LS2PSpt.png", EURO SPORT 1 (Chọn HW)
+http://185.238.0.145:1313/c/livedo/eurosport1.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.broadbandtvnews.com/wp-content/uploads/2015/11/Eurosport-2-HD.png", EURO SPORT 2 (Chọn HW)
+http://185.238.0.145:1313/c/livedo/eurosport2.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/MsS4vJQ.png", Sky Racing 1
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/2xjPuAH.png", Sky Racing 2
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="http://static.epg.best/au/RacingCom.au.png", Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-premier-football-1-1818.png", True Premier Football 1 (Chọn HW)
+https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-premier-football-2-1819.png", True Premier Football 2 (Chọn HW)
+https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-sport-1-1070.png",TRUE SPORT HD 1 (Chọn HW)
+https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-sport-2-1071.png",TRUE SPORT HD 2 (Chọn HW)
+https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-sport-3-1072.png",TRUE SPORT HD 3 (Chọn HW)
+https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/xnuTY7o.png", Dubai Sports 1 HD
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist_b2000000.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/sp9QOxt.png", Dubai Sports 2 HD
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/dubaisportshd/chunklist_b2000000.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/aE1onjt.png", Dubai Sports 3 HD
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/dubaisportshd5/chunklist_b2000000.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png", NBA TV (Chọn HW)
+https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://1.bp.blogspot.com/-oitrDmGmtZE/WwacCEWaLDI/AAAAAAAAS60/WynskHJzE-kZcaJzbTy5eBwVjmJPcEnVACLcBGAs/s320/sharjah-sport-off.png", Sharjah Sports
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/vyaBkjt.png", Jordan Sport
+https://jrtv-live.ercdn.net/jordansporthd/jordansporthd_1080p.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/NMbHgDp.png", SPORTS TV
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png", Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/vS3Ppal.png", HÀ GIANG
 https://livecdn.fptplay.net/sda/hagiang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="http://hanamtv.vn/template/default/images/logo.png",HÀ NAM
