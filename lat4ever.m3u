@@ -1,61 +1,48 @@
-#EXTM3U List IPTV Quốc Tế của Lat4ever®
+#EXTM3U url-tvg="http://gg.gg/epgbeartv" tvg-shift=0 m3uautoload=1
 
-
-#EXTINF:0 group-title="KÊNH QUỐC TẾ" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/04/19/736642-axn.png",AXN HD
-http://mytv.huuvinh.ooo/v5live.m3u8/?id=axn&type=player
-#EXTINF:0 group-title="KÊNH QUỐC TẾ" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/10/25/692435-FOX-Movies.png",Fox Movies HD
-http://mytv.huuvinh.ooo/v5live.m3u8/?id=foxmovies&type=player
-#EXTINF:0 group-title="KÊNH QUỐC TẾ" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/10/25/361072-FOX-Life.png",Fox Life HD
-http://mytv.huuvinh.ooo/v5live.m3u8/?id=foxlife&type=player
-#EXTINF:0 group-title="KÊNH QUỐC TẾ" tvg-logo="http://img.hplus.com.vn/320x180/banner/2017/08//09/399210-max-by-HBO.png",Max By HBO HD
-http://mytv.huuvinh.ooo/v5live.m3u8/?id=maxhbo&type=player
-#EXTINF:0 group-title="KÊNH QUỐC TẾ" tvg-logo="https://kplus-website-production-cdn.azureedge.net/content/upload/1/root/logo-hbo-hd_w100_h100.png",HBO HD
-http://mytv.huuvinh.ooo/v5live.m3u8/?id=hbo&type=player
-#EXTINF:0 group-title="KÊNH QUỐC TẾ" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/363762-red-by-HBO.png",Red By HBO HD
-http://mytv.huuvinh.ooo/v5live.m3u8/?id=redhbo&type=player
-#EXTINF:0 group-title="KÊNH QUỐC TẾ" tvg-logo="http://img.hplus.com.vn/320x180/banner/2017/10/17/462892-FOX-HD.png",FOX HD
-http://mytv.huuvinh.ooo/v5live.m3u8/?id=foxhd&type=player
-#EXTINF:0 group-title="KÊNH QUỐC TẾ" tvg-logo="http://img.hplus.com.vn/320x180/banner/2017/10/17/463862-Fox-Family-Movies.png",Fox Family Movies
-http://mytv.huuvinh.ooo/v5live.m3u8/?id=foxfamily&type=player
-#EXTINF:0 group-title="KÊNH QUỐC TẾ" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/503539-cinemaworld.png",Cinema World
-http://mytv.huuvinh.ooo/v5live.m3u8/?id=cinemaworld&type=player
-#EXTINF:0 group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/MTV.png",MTV HD
-http://mytv.huuvinh.ooo/v5live.m3u8/?id=mtv&type=player
-#EXTINF:0 group-title="KÊNH QUỐC TẾ" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/120786-Cartoon-Netword-HD.png",Cartoon Network HD
-http://mytv.huuvinh.ooo/v5live.m3u8/?id=cartoon&type=player
-#EXTINF:0 group-title="KÊNH QUỐC TẾ" tvg-logo="https://kplus-website-production-cdn.azureedge.net/content/upload/1/root/logo-disney-channel1_w100_h100.png",Disney Channel HD
-http://mytv.huuvinh.ooo/v5live.m3u8/?id=disney&type=player
-#EXTINF:0 group-title="KÊNH QUỐC TẾ" tvg-logo="https://kplus-website-production-cdn.azureedge.net/content/upload/1/image-channels/logo-disney-junior_w100_h100.png",Disney Junior HD
-http://mytv.huuvinh.ooo/v5live.m3u8/?id=disneyjunior&type=player
-#EXTINF:0 group-title="KÊNH QUỐC TẾ" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Da_Vinci_LEARNING.jpg",Davinci HD
-http://mytv.huuvinh.ooo/v5live.m3u8/?id=davinci&type=player
-#EXTINF:0 group-title="KÊNH QUỐC TẾ" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/712174-WARNER-tv.png",WarnerBros TV HD
-http://mytv.huuvinh.ooo/v5live.m3u8/?id=warner&type=player
-#EXTINF:0 group-title="KÊNH QUỐC TẾ" tvg-logo="http://img.hplus.com.vn/355x200/banner/2015/03/13/405224-FOX-Sports-1-HD.png",Fox Sports HD
-http://mytv.huuvinh.ooo/v5live.m3u8/?id=foxsports&type=player
-#EXTINF:0 group-title="KÊNH QUỐC TẾ" tvg-logo="http://img.hplus.com.vn/355x200/banner/2015/03/11/191147-Channel_V_Logo.png",Channel V HD
-http://mytv.huuvinh.ooo/v5live.m3u8/?id=channelv&type=player
-#EXTINF:0 group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png",National Geographic HD
-http://mytv.huuvinh.ooo/v5live.m3u8/?id=ngchd&type=player
-#EXTINF:0 group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png",Nat Geo Wild HD
-http://mytv.huuvinh.ooo/v5live.m3u8/?id=ngwhd&type=player
-#EXTINF:0 group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Nat_Geo_People_HD.png",Nat Geo People HD
-http://mytv.huuvinh.ooo/v5live.m3u8/?id=ngphd&type=player
-#EXTINF:0 group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Outdoor_Channel_HD.png",OutDoor Channel HD
-http://mytv.huuvinh.ooo/v5live.m3u8/?id=outdoor&type=player
-#EXTINF:0 group-title="KÊNH QUỐC TẾ" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2015-03-26/7743534-logo-discovery-.png",Discovery Channel HD
-http://mytv.huuvinh.ooo/v5live.m3u8/?id=discovery&type=player
-#EXTINF:0 group-title="KÊNH QUỐC TẾ" tvg-logo="http://qnet.com.vn/data/banners/zgl1380859435.png",Animal Planet HD
-http://mytv.huuvinh.ooo/v5live.m3u8/?id=animalplanet&type=player
-#EXTINF:0 group-title="KÊNH QUỐC TẾ" tvg-logo="http://truyenhinhso.vn/Images/Thumbs/44_25_445600648.png",Fashion TV
-http://mytv.huuvinh.ooo/v5live.m3u8/?id=fashion&type=player
-#EXTINF:0 group-title="KÊNH QUỐC TẾ" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/605803-BBC-World-News.png",BBC HD
-http://mytv.huuvinh.ooo/v5live.m3u8/?id=bbc&type=player
-#EXTINF:0 group-title="KÊNH QUỐC TẾ" tvg-logo="http://img.hplus.com.vn/355x200/poster/2015/11/06/716117-KBS-World.png",KBS World HD
-http://mytv.huuvinh.ooo/v5live.m3u8/?id=kbs&type=player
-#EXTINF:0 group-title="KÊNH QUỐC TẾ" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/04/11/370895-NHK-logo-web.png",NHK World HD
-http://mytv.huuvinh.ooo/v5live.m3u8/?id=nhk&type=player
-#EXTINF:0 group-title="KÊNH QUỐC TẾ" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/04/11/530198-DW-logo.png",DW HD
-http://mytv.huuvinh.ooo/v5live.m3u8/?id=dw&type=player
-#EXTINF:0 group-title="KÊNH QUỐC TẾ" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/323296-Bloomberg.png",Bloomberg HD
-http://mytv.huuvinh.ooo/v5live.m3u8/?id=bloomberg&type=player
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/wCP0U5u.png", AN GIANG
+http://livecdn.fptplay.net/sda/angiang_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="http://brt.vn/common/v1/images/logo-footer.png", BÀ RỊA VŨNG TÀU HD
+https://livecdn.fptplay.net/sdc/bariavungtau_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="http://thbl.vn/btv.png", BẠC LIÊU HD
+https://livecdn.fptplay.net/sdc/baclieu_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="http://vod.bgtv.mediatech.vn/upload/files/logo.png", BẮC GIANG HD
+http://cdn.bgtv.mediatech.vn/bgtvlive/tv1live.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://mytv.com.vn/upload/channel/971.png", BẮC KẠN
+http://113.160.162.131:8080/tv/bk.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/8qdxsmD.png", BẮC NINH HD
+https://livecdn.fptplay.net/sdc/bacninh_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="http://thbt.vn/wp-content/themes/comfy-plus/styles/default/img/tv.png", BẾN TRE
+http://livecdn.fptplay.net/sdc/bentre_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://img.hplus.com.vn/460x260/poster/2018/06/18/522019-BTV1.png", BÌNH DƯƠNG 1 HD
+https://livecdn.fptplay.net/hda/btv1_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://img.hplus.com.vn/460x260/poster/2018/06/18/245539-444791-BTV2.png", BÌNH DƯƠNG 2 HD
+https://livecdn.fptplay.net/hda/btv2_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://img.hplus.com.vn/460x260/poster/2018/06/04/599358-BinhDinh-BTV.png", BÌNH ĐỊNH
+https://livecdn.fptplay.net/sda/binhdinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/AwMCnAl.png", BÌNH PHƯỚC 1 HD
+https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/97Kgo2U.png", BÌNH PHƯỚC 2 HD - HOME TV
+https://live.baobinhphuoc.com.vn/bptvlive/tv2live.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/7PFJksI.png", BÌNH THUẬN
+http://202.43.109.142:1935/thbttv/bttv/chunklist_w536057527.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://mytv.com.vn/upload/channel/691.png", CÀ MAU HD
+https://livecdn.fptplay.net/sdc/camau_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://mytv.com.vn/upload/channel/111.png", CAO BẰNG
+https://livecdn.fptplay.net/sda/caobang_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://img.hplus.com.vn/460x260/poster/2018/06/04/472419-CanTho.png", TP CẦN THƠ HD
+https://tv.canthotv.vn/live/tv/tv.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://mytv.com.vn/upload/channel/811.png", GIA LAI
+https://livecdn.fptplay.net/sda/gialai_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/vS3Ppal.png", HÀ GIANG
+https://livecdn.fptplay.net/sda/hagiang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="http://hanamtv.vn/template/default/images/logo.png",HÀ NAM
+https://livecdn.fptplay.net/sda/hanam_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="hanoitv1" group-title="KÊNH ĐỊA PHƯƠNG"  tvg-logo="https://mytv.com.vn/upload/channel/190.png", HÀ NỘI 1 HD
+http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8
+#EXTINF:-1 tvg-id="hanoitv2" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://mytv.com.vn/upload/channel/193.png", HÀ NỘI 2 HD
+http://cdn.hntv.mediatech.vn/hntvlive/tv2live.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://mytv.com.vn/upload/channel/381.png", HÀ TĨNH HD
+http://hatinhtv.vn:82/hls/httv.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944958841.png", HẢI DƯƠNG
+https://livecdn.fptplay.net/sdc/haiduong_hls.smil/chunklist_b2500000.m3u8
