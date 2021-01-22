@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://gg.gg/epgbeartv" tvg-shift=0 m3uautoload=1
+#EXTM3U IPTV Playlist VIP 2021 url-tvg="http://gg.gg/epgbeartv" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/wCP0U5u.png", AN GIANG
 http://livecdn.fptplay.net/sda/angiang_2000.stream/playlist.m3u8
